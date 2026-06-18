@@ -47,7 +47,7 @@ import translations
 importlib.reload(translations)
 from translations import TRANSLATIONS
 
-lang = st.sidebar.selectbox("🌐 Language / زبان / Sprache", ["FA 🇮🇷", "EN 🇬🇧", "DE 🇩🇪"], index=0)
+lang = st.sidebar.selectbox("🌐 Language / Sprache / زبان", ["EN 🇬🇧", "DE 🇩🇪", "FA 🇮🇷"], index=0)
 st.session_state.lang_code = lang.split()[0]
 
 def _(text):
