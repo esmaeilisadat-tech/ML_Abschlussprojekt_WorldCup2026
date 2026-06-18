@@ -33,3 +33,10 @@ report/
 split_data.py
 test_pandas.py
 Mathematical_Analysis_and_Notebook_Explanation.md
+
+# Junk root files
+*.zip
+fix_*.py
+get_err.*
+*.pdf
+current_app.txt
