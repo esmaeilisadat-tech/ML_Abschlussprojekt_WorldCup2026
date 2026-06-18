@@ -1,0 +1,2 @@
+model,team_a_mae,team_b_mae,mean_mae,team_a_rmse,team_b_rmse,mean_rmse,team_a_r2,team_b_r2,mean_r2,total_goals_mae,mean_abs_goal_error_per_match,rounded_exact_score_accuracy,rounded_score_outcome_accuracy
+Gradient Boosting Regressor,1.0811460439081402,0.7447915900195192,0.9129688169638297,1.4089429219228813,0.9804825430143349,1.194712732468608,0.2601004455164925,0.25517627602968396,0.2576383607730882,1.399739078511273,1.8259376339276594,0.115625,0.624375

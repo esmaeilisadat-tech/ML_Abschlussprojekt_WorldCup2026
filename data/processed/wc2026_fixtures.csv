@@ -1,0 +1,105 @@
+match_no,date,stage,group,team_a,team_b,team_a_clean,team_b_clean,venue,city,country,neutral
+Match 1,2026-06-11,,Group A,Mexico,South Africa,Mexico,South Africa,Mexico City Stadium,,,True
+Match 2,2026-06-11,,Group A,Korea Republic,Czechia/Denmark/North Macedonia/Republic of Ireland,Korea Republic,Czechia/Denmark/North Macedonia/Republic of Ireland,Estadio Guadalajara,,,True
+Match 3,2026-06-12,,Group B,Canada,Bosnia and Herzegovina/Italy/Northern Ireland/Wales,Canada,Bosnia and Herzegovina/Italy/Northern Ireland/Wales,Toronto Stadium,,,True
+Match 4,2026-06-12,,Group D,USA,Paraguay,USA,Paraguay,Los Angeles Stadium,,,True
+Match 5,2026-06-13,,Group C,Haiti,Scotland,Haiti,Scotland,Boston Stadium,,,True
+Match 6,2026-06-13,,Group D,Australia,Kosovo/Romania/Slovakia/Türkiye,Australia,Kosovo/Romania/Slovakia/Türkiye,BC Place Vancouver,,,True
+Match 7,2026-06-13,,Group C,Brazil,Morocco,Brazil,Morocco,New York New Jersey Stadium,,,True
+Match 8,2026-06-13,,Group B,Qatar,Switzerland,Qatar,Switzerland,San Francisco Bay Area Stadium,,,True
+Match 9,2026-06-14,,Group E,Côte d'Ivoire,Ecuador,Côte d'Ivoire,Ecuador,Philadelphia Stadium,,,True
+Match 10,2026-06-14,,Group E,Germany,Curaçao,Germany,Curaçao,Houston Stadium,,,True
+Match 11,2026-06-14,,Group F,Netherlands,Japan,Netherlands,Japan,Dallas Stadium,,,True
+Match 12,2026-06-14,,Group F,Albania/Poland/Sweden/Ukraine,Tunisia,Albania/Poland/Sweden/Ukraine,Tunisia,Estadio Monterrey,,,True
+Match 13,2026-06-15,,Group H,Saudi Arabia,Uruguay,Saudi Arabia,Uruguay,Miami Stadium,,,True
+Match 14,2026-06-15,,Group H,Spain,Cabo Verde,Spain,Cabo Verde,Atlanta Stadium,,,True
+Match 15,2026-06-15,,Group G,IR Iran,New Zealand,IR Iran,New Zealand,Los Angeles Stadium,,,True
+Match 16,2026-06-15,,Group G,Belgium,Egypt,Belgium,Egypt,Seattle Stadium,,,True
+Match 17,2026-06-16,,Group I,France,Senegal,France,Senegal,New York New Jersey Stadium,,,True
+Match 18,2026-06-16,,Group I,Bolivia/Iraq/Suriname,Norway,Bolivia/Iraq/Suriname,Norway,Boston Stadium,,,True
+Match 19,2026-06-16,,Group J,Argentina,Algeria,Argentina,Algeria,Kansas City Stadium,,,True
+Match 20,2026-06-16,,Group J,Austria,Jordan,Austria,Jordan,San Francisco Bay Area Stadium,,,True
+Match 21,2026-06-17,,Group L,Ghana,Panama,Ghana,Panama,Toronto Stadium,,,True
+Match 22,2026-06-17,,Group L,England,Croatia,England,Croatia,Dallas Stadium,,,True
+Match 23,2026-06-17,,Group K,Portugal,Congo DR/Jamaica/New Caledonia,Portugal,Congo DR/Jamaica/New Caledonia,Houston Stadium,,,True
+Match 24,2026-06-17,,Group K,Uzbekistan,Colombia,Uzbekistan,Colombia,Mexico City Stadium,,,True
+Match 25,2026-06-18,,Group A,Czechia/Denmark/North Macedonia/Republic of Ireland,South Africa,Czechia/Denmark/North Macedonia/Republic of Ireland,South Africa,Atlanta Stadium,,,True
+Match 26,2026-06-18,,Group B,Switzerland,Bosnia and Herzegovina/Italy/Northern Ireland/Wales,Switzerland,Bosnia and Herzegovina/Italy/Northern Ireland/Wales,Los Angeles Stadium,,,True
+Match 27,2026-06-18,,Group B,Canada,Qatar,Canada,Qatar,BC Place Vancouver,,,True
+Match 28,2026-06-18,,Group A,Mexico,Korea Republic,Mexico,Korea Republic,Estadio Guadalajara,,,True
+Match 29,2026-06-19,,Group C,Brazil,Haiti,Brazil,Haiti,Philadelphia Stadium,,,True
+Match 30,2026-06-19,,Group C,Scotland,Morocco,Scotland,Morocco,Boston Stadium,,,True
+Match 31,2026-06-19,,Group D,Kosovo/Romania/Slovakia/Türkiye,Paraguay,Kosovo/Romania/Slovakia/Türkiye,Paraguay,San Francisco Bay Area Stadium,,,True
+Match 32,2026-06-19,,Group D,USA,Australia,USA,Australia,Seattle Stadium,,,True
+Match 33,2026-06-20,,Group E,Germany,Côte d'Ivoire,Germany,Côte d'Ivoire,Toronto Stadium,,,True
+Match 34,2026-06-20,,Group E,Ecuador,Curaçao,Ecuador,Curaçao,Kansas City Stadium,,,True
+Match 35,2026-06-20,,Group F,Netherlands,Albania/Poland/Sweden/Ukraine,Netherlands,Albania/Poland/Sweden/Ukraine,Houston Stadium,,,True
+Match 36,2026-06-20,,Group F,Tunisia,Japan,Tunisia,Japan,Estadio Monterrey,,,True
+Match 37,2026-06-21,,Group H,Uruguay,Cabo Verde,Uruguay,Cabo Verde,Miami Stadium,,,True
+Match 38,2026-06-21,,Group H,Spain,Saudi Arabia,Spain,Saudi Arabia,Atlanta Stadium,,,True
+Match 39,2026-06-21,,Group G,Belgium,IR Iran,Belgium,IR Iran,Los Angeles Stadium,,,True
+Match 40,2026-06-21,,Group G,New Zealand,Egypt,New Zealand,Egypt,BC Place Vancouver,,,True
+Match 41,2026-06-22,,Group I,Norway,Senegal,Norway,Senegal,New York New Jersey Stadium,,,True
+Match 42,2026-06-22,,Group I,France,Bolivia/Iraq/Suriname,France,Bolivia/Iraq/Suriname,Philadelphia Stadium,,,True
+Match 43,2026-06-22,,Group J,Argentina,Austria,Argentina,Austria,Dallas Stadium,,,True
+Match 44,2026-06-22,,Group J,Jordan,Algeria,Jordan,Algeria,San Francisco Bay Area Stadium,,,True
+Match 45,2026-06-23,,Group L,England,Ghana,England,Ghana,Boston Stadium,,,True
+Match 46,2026-06-23,,Group L,Panama,Croatia,Panama,Croatia,Toronto Stadium,,,True
+Match 47,2026-06-23,,Group K,Portugal,Uzbekistan,Portugal,Uzbekistan,Houston Stadium,,,True
+Match 48,2026-06-23,,Group K,Colombia,Congo DR/Jamaica/New Caledonia,Colombia,Congo DR/Jamaica/New Caledonia,Estadio Guadalajara,,,True
+Match 49,2026-06-24,,Group C,Scotland,Brazil,Scotland,Brazil,Miami Stadium,,,True
+Match 50,2026-06-24,,Group C,Morocco,Haiti,Morocco,Haiti,Atlanta Stadium,,,True
+Match 51,2026-06-24,,Group B,Switzerland,Canada,Switzerland,Canada,BC Place Vancouver,,,True
+Match 52,2026-06-24,,Group B,Bosnia and Herzegovina/Italy/Northern Ireland/Wales,Qatar,Bosnia and Herzegovina/Italy/Northern Ireland/Wales,Qatar,Seattle Stadium,,,True
+Match 53,2026-06-24,,Group A,Czechia/Denmark/North Macedonia/Republic of Ireland,Mexico,Czechia/Denmark/North Macedonia/Republic of Ireland,Mexico,Mexico City Stadium,,,True
+Match 54,2026-06-24,,Group A,South Africa,Korea Republic,South Africa,Korea Republic,Estadio Monterrey,,,True
+Match 55,2026-06-25,,Group E,Curaçao,Côte d'Ivoire,Curaçao,Côte d'Ivoire,Philadelphia Stadium,,,True
+Match 56,2026-06-25,,Group E,Ecuador,Germany,Ecuador,Germany,New York New Jersey Stadium,,,True
+Match 57,2026-06-25,,Group F,Japan,Albania/Poland/Sweden/Ukraine,Japan,Albania/Poland/Sweden/Ukraine,Dallas Stadium,,,True
+Match 58,2026-06-25,,Group F,Tunisia,Netherlands,Tunisia,Netherlands,Kansas City Stadium,,,True
+Match 59,2026-06-25,,Group D,Kosovo/Romania/Slovakia/Türkiye,USA,Kosovo/Romania/Slovakia/Türkiye,USA,Los Angeles Stadium,,,True
+Match 60,2026-06-25,,Group D,Paraguay,Australia,Paraguay,Australia,San Francisco Bay Area Stadium,,,True
+Match 61,2026-06-26,,Group I,Norway,France,Norway,France,Boston Stadium,,,True
+Match 62,2026-06-26,,Group I,Senegal,Bolivia/Iraq/Suriname,Senegal,Bolivia/Iraq/Suriname,Toronto Stadium,,,True
+Match 63,2026-06-26,,Group G,Egypt,IR Iran,Egypt,IR Iran,Seattle Stadium,,,True
+Match 64,2026-06-26,,Group G,New Zealand,Belgium,New Zealand,Belgium,BC Place Vancouver,,,True
+Match 65,2026-06-26,,Group H,Cabo Verde,Saudi Arabia,Cabo Verde,Saudi Arabia,Houston Stadium,,,True
+Match 66,2026-06-26,,Group H,Uruguay,Spain,Uruguay,Spain,Estadio Guadalajara,,,True
+Match 67,2026-06-27,,Group L,Panama,England,Panama,England,New York New Jersey Stadium,,,True
+Match 68,2026-06-27,,Group L,Croatia,Ghana,Croatia,Ghana,Philadelphia Stadium,,,True
+Match 69,2026-06-27,,Group J,Algeria,Austria,Algeria,Austria,Kansas City Stadium,,,True
+Match 70,2026-06-27,,Group J,Jordan,Argentina,Jordan,Argentina,Dallas Stadium,,,True
+Match 71,2026-06-27,,Group K,Colombia,Portugal,Colombia,Portugal,Miami Stadium,,,True
+Match 72,2026-06-27,,Group K,Congo DR/Jamaica/New Caledonia,Uzbekistan,Congo DR/Jamaica/New Caledonia,Uzbekistan,Atlanta Stadium,,,True
+Match 73,2026-06-28,,,Group A runners-up,Group B runners-up,Group A runners-up,Group B runners-up,Los Angeles Stadium,,,True
+Match 74,2026-06-29,,,Group E winners,Group A/B/C/D/F third place,Group E winners,Group A/B/C/D/F third place,Boston Stadium,,,True
+Match 75,2026-06-29,,,Group F winners,Group C runners-up,Group F winners,Group C runners-up,Estadio Monterrey,,,True
+Match 76,2026-06-29,,,Group C winners,Group F runners-up,Group C winners,Group F runners-up,Houston Stadium,,,True
+Match 77,2026-06-30,,,Group I winners,Group C/D/F/G/H third place,Group I winners,Group C/D/F/G/H third place,New York New Jersey Stadium,,,True
+Match 78,2026-06-30,,,Group E runners up,Group I runners-up,Group E runners up,Group I runners-up,Dallas Stadium,,,True
+Match 79,2026-06-30,,,Group A winners,Group C/E/F/H/I third place,Group A winners,Group C/E/F/H/I third place,Mexico City Stadium,,,True
+Match 80,2026-07-01,,,Group L winners,Group E/H/I/J/K third place,Group L winners,Group E/H/I/J/K third place,Atlanta Stadium,,,True
+Match 81,2026-07-01,,,Group D winners,Group B/E/F/I/J third place,Group D winners,Group B/E/F/I/J third place,San Francisco Bay Area Stadium,,,True
+Match 82,2026-07-01,,,Group G winners,Group A/E/H/I/J third place,Group G winners,Group A/E/H/I/J third place,Seattle Stadium,,,True
+Match 83,2026-07-02,,,Group K runners-up,Group L runners-up,Group K runners-up,Group L runners-up,Toronto Stadium,,,True
+Match 84,2026-07-02,,,Group H winners,Group J runners-up,Group H winners,Group J runners-up,Los Angeles Stadium,,,True
+Match 85,2026-07-02,,,Group B winners,Group E/F/G/I/J third place,Group B winners,Group E/F/G/I/J third place,BC Place Vancouver,,,True
+Match 86,2026-07-03,,,Group J winners,Group H runners-up,Group J winners,Group H runners-up,Miami Stadium,,,True
+Match 87,2026-07-03,,,Group K winners,Group D/E/I/J/L third place,Group K winners,Group D/E/I/J/L third place,Kansas City Stadium,,,True
+Match 88,2026-07-03,,,Group D runners-up,Group G runners-up,Group D runners-up,Group G runners-up,Dallas Stadium,,,True
+Match 89,2026-07-04,,,Winner match 74,Winner match 77,Winner match 74,Winner match 77,Philadelphia Stadium,,,True
+Match 90,2026-07-04,,,Winner match 73,Winner match 75,Winner match 73,Winner match 75,Houston Stadium,,,True
+Match 91,2026-07-05,,,Winner match 76,Winner match 78,Winner match 76,Winner match 78,New York New Jersey Stadium,,,True
+Match 92,2026-07-05,,,Winner match 79,Winner match 80,Winner match 79,Winner match 80,Mexico City Stadium,,,True
+Match 93,2026-07-06,,,Winner match 83,Winner match 84,Winner match 83,Winner match 84,Dallas Stadium,,,True
+Match 94,2026-07-06,,,Winner match 81,Winner match 82,Winner match 81,Winner match 82,Seattle Stadium,,,True
+Match 95,2026-07-07,,,Winner match 86,Winner match 88,Winner match 86,Winner match 88,Atlanta Stadium,,,True
+Match 96,2026-07-07,,,Winner match 85,Winner match 87,Winner match 85,Winner match 87,BC Place Vancouver,,,True
+Match 97,2026-07-09,,,Winner match 89,Winner match 90,Winner match 89,Winner match 90,Boston Stadium,,,True
+Match 98,2026-07-10,,,Winner match 93,Winner match 94,Winner match 93,Winner match 94,Los Angeles Stadium,,,True
+Match 99,2026-07-11,,,Winner match 91,Winner match 92,Winner match 91,Winner match 92,Miami Stadium,,,True
+Match 100,2026-07-11,,,Winner match 95,Winner match 96,Winner match 95,Winner match 96,Kansas City Stadium,,,True
+Match 101,2026-07-14,,,Winner match 97,Winner match 98,Winner match 97,Winner match 98,Dallas Stadium,,,True
+Match 102,2026-07-15,,,Winner match 99,Winner match 100,Winner match 99,Winner match 100,Atlanta Stadium,,,True
+Match 103,2026-07-18,,,Runner-up match 101,Runner-up match 102,Runner-up match 101,Runner-up match 102,Miami Stadium,,,True
+Match 104,2026-07-19,,,Winner match 101,Winner match 102,Winner match 101,Winner match 102,New York New Jersey Stadium,,,True

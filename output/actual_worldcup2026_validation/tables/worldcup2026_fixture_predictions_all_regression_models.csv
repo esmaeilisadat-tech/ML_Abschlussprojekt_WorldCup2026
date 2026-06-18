@@ -1,0 +1,505 @@
+match_number,date,group,team_a,team_b,model,pred_team_a_goals,pred_team_b_goals,pred_team_a_goals_rounded,pred_team_b_goals_rounded,predicted_score,predicted_result,join_team_a,join_team_b
+,2026-06-11,Group A,Mexico,South Africa,Dummy Mean Baseline,1.7755,0.892875,2,1,2 - 1,team_a_win,mexico,south africa
+,2026-06-11,Group A,Korea Republic,Czechia/Denmark/North Macedonia/Republic of Ireland,Dummy Mean Baseline,1.7755,0.892875,2,1,2 - 1,team_a_win,korea republic,czechia/denmark/north macedonia/republic of ireland
+,2026-06-12,Group B,Canada,Bosnia and Herzegovina/Italy/Northern Ireland/Wales,Dummy Mean Baseline,1.7755,0.892875,2,1,2 - 1,team_a_win,canada,bosnia and herzegovina/italy/northern ireland/wales
+,2026-06-12,Group D,USA,Paraguay,Dummy Mean Baseline,1.7755,0.892875,2,1,2 - 1,team_a_win,united states,paraguay
+,2026-06-13,Group C,Haiti,Scotland,Dummy Mean Baseline,1.7755,0.892875,2,1,2 - 1,team_a_win,haiti,scotland
+,2026-06-13,Group D,Australia,Kosovo/Romania/Slovakia/Türkiye,Dummy Mean Baseline,1.7755,0.892875,2,1,2 - 1,team_a_win,australia,kosovo/romania/slovakia/türkiye
+,2026-06-13,Group C,Brazil,Morocco,Dummy Mean Baseline,1.7755,0.892875,2,1,2 - 1,team_a_win,brazil,morocco
+,2026-06-13,Group B,Qatar,Switzerland,Dummy Mean Baseline,1.7755,0.892875,2,1,2 - 1,team_a_win,qatar,switzerland
+,2026-06-14,Group E,Côte d'Ivoire,Ecuador,Dummy Mean Baseline,1.7755,0.892875,2,1,2 - 1,team_a_win,côte d'ivoire,ecuador
+,2026-06-14,Group E,Germany,Curaçao,Dummy Mean Baseline,1.7755,0.892875,2,1,2 - 1,team_a_win,germany,curaçao
+,2026-06-14,Group F,Netherlands,Japan,Dummy Mean Baseline,1.7755,0.892875,2,1,2 - 1,team_a_win,netherlands,japan
+,2026-06-14,Group F,Albania/Poland/Sweden/Ukraine,Tunisia,Dummy Mean Baseline,1.7755,0.892875,2,1,2 - 1,team_a_win,albania/poland/sweden/ukraine,tunisia
+,2026-06-15,Group H,Saudi Arabia,Uruguay,Dummy Mean Baseline,1.7755,0.892875,2,1,2 - 1,team_a_win,saudi arabia,uruguay
+,2026-06-15,Group H,Spain,Cabo Verde,Dummy Mean Baseline,1.7755,0.892875,2,1,2 - 1,team_a_win,spain,cabo verde
+,2026-06-15,Group G,IR Iran,New Zealand,Dummy Mean Baseline,1.7755,0.892875,2,1,2 - 1,team_a_win,ir iran,new zealand
+,2026-06-15,Group G,Belgium,Egypt,Dummy Mean Baseline,1.7755,0.892875,2,1,2 - 1,team_a_win,belgium,egypt
+,2026-06-16,Group I,France,Senegal,Dummy Mean Baseline,1.7755,0.892875,2,1,2 - 1,team_a_win,france,senegal
+,2026-06-16,Group I,Bolivia/Iraq/Suriname,Norway,Dummy Mean Baseline,1.7755,0.892875,2,1,2 - 1,team_a_win,bolivia/iraq/suriname,norway
+,2026-06-16,Group J,Argentina,Algeria,Dummy Mean Baseline,1.7755,0.892875,2,1,2 - 1,team_a_win,argentina,algeria
+,2026-06-16,Group J,Austria,Jordan,Dummy Mean Baseline,1.7755,0.892875,2,1,2 - 1,team_a_win,austria,jordan
+,2026-06-17,Group L,Ghana,Panama,Dummy Mean Baseline,1.7755,0.892875,2,1,2 - 1,team_a_win,ghana,panama
+,2026-06-17,Group L,England,Croatia,Dummy Mean Baseline,1.7755,0.892875,2,1,2 - 1,team_a_win,england,croatia
+,2026-06-17,Group K,Portugal,Congo DR/Jamaica/New Caledonia,Dummy Mean Baseline,1.7755,0.892875,2,1,2 - 1,team_a_win,portugal,congo dr/jamaica/new caledonia
+,2026-06-17,Group K,Uzbekistan,Colombia,Dummy Mean Baseline,1.7755,0.892875,2,1,2 - 1,team_a_win,uzbekistan,colombia
+,2026-06-18,Group A,Czechia/Denmark/North Macedonia/Republic of Ireland,South Africa,Dummy Mean Baseline,1.7755,0.892875,2,1,2 - 1,team_a_win,czechia/denmark/north macedonia/republic of ireland,south africa
+,2026-06-18,Group B,Switzerland,Bosnia and Herzegovina/Italy/Northern Ireland/Wales,Dummy Mean Baseline,1.7755,0.892875,2,1,2 - 1,team_a_win,switzerland,bosnia and herzegovina/italy/northern ireland/wales
+,2026-06-18,Group B,Canada,Qatar,Dummy Mean Baseline,1.7755,0.892875,2,1,2 - 1,team_a_win,canada,qatar
+,2026-06-18,Group A,Mexico,Korea Republic,Dummy Mean Baseline,1.7755,0.892875,2,1,2 - 1,team_a_win,mexico,korea republic
+,2026-06-19,Group C,Brazil,Haiti,Dummy Mean Baseline,1.7755,0.892875,2,1,2 - 1,team_a_win,brazil,haiti
+,2026-06-19,Group C,Scotland,Morocco,Dummy Mean Baseline,1.7755,0.892875,2,1,2 - 1,team_a_win,scotland,morocco
+,2026-06-19,Group D,Kosovo/Romania/Slovakia/Türkiye,Paraguay,Dummy Mean Baseline,1.7755,0.892875,2,1,2 - 1,team_a_win,kosovo/romania/slovakia/türkiye,paraguay
+,2026-06-19,Group D,USA,Australia,Dummy Mean Baseline,1.7755,0.892875,2,1,2 - 1,team_a_win,united states,australia
+,2026-06-20,Group E,Germany,Côte d'Ivoire,Dummy Mean Baseline,1.7755,0.892875,2,1,2 - 1,team_a_win,germany,côte d'ivoire
+,2026-06-20,Group E,Ecuador,Curaçao,Dummy Mean Baseline,1.7755,0.892875,2,1,2 - 1,team_a_win,ecuador,curaçao
+,2026-06-20,Group F,Netherlands,Albania/Poland/Sweden/Ukraine,Dummy Mean Baseline,1.7755,0.892875,2,1,2 - 1,team_a_win,netherlands,albania/poland/sweden/ukraine
+,2026-06-20,Group F,Tunisia,Japan,Dummy Mean Baseline,1.7755,0.892875,2,1,2 - 1,team_a_win,tunisia,japan
+,2026-06-21,Group H,Uruguay,Cabo Verde,Dummy Mean Baseline,1.7755,0.892875,2,1,2 - 1,team_a_win,uruguay,cabo verde
+,2026-06-21,Group H,Spain,Saudi Arabia,Dummy Mean Baseline,1.7755,0.892875,2,1,2 - 1,team_a_win,spain,saudi arabia
+,2026-06-21,Group G,Belgium,IR Iran,Dummy Mean Baseline,1.7755,0.892875,2,1,2 - 1,team_a_win,belgium,ir iran
+,2026-06-21,Group G,New Zealand,Egypt,Dummy Mean Baseline,1.7755,0.892875,2,1,2 - 1,team_a_win,new zealand,egypt
+,2026-06-22,Group I,Norway,Senegal,Dummy Mean Baseline,1.7755,0.892875,2,1,2 - 1,team_a_win,norway,senegal
+,2026-06-22,Group I,France,Bolivia/Iraq/Suriname,Dummy Mean Baseline,1.7755,0.892875,2,1,2 - 1,team_a_win,france,bolivia/iraq/suriname
+,2026-06-22,Group J,Argentina,Austria,Dummy Mean Baseline,1.7755,0.892875,2,1,2 - 1,team_a_win,argentina,austria
+,2026-06-22,Group J,Jordan,Algeria,Dummy Mean Baseline,1.7755,0.892875,2,1,2 - 1,team_a_win,jordan,algeria
+,2026-06-23,Group L,England,Ghana,Dummy Mean Baseline,1.7755,0.892875,2,1,2 - 1,team_a_win,england,ghana
+,2026-06-23,Group L,Panama,Croatia,Dummy Mean Baseline,1.7755,0.892875,2,1,2 - 1,team_a_win,panama,croatia
+,2026-06-23,Group K,Portugal,Uzbekistan,Dummy Mean Baseline,1.7755,0.892875,2,1,2 - 1,team_a_win,portugal,uzbekistan
+,2026-06-23,Group K,Colombia,Congo DR/Jamaica/New Caledonia,Dummy Mean Baseline,1.7755,0.892875,2,1,2 - 1,team_a_win,colombia,congo dr/jamaica/new caledonia
+,2026-06-24,Group C,Scotland,Brazil,Dummy Mean Baseline,1.7755,0.892875,2,1,2 - 1,team_a_win,scotland,brazil
+,2026-06-24,Group C,Morocco,Haiti,Dummy Mean Baseline,1.7755,0.892875,2,1,2 - 1,team_a_win,morocco,haiti
+,2026-06-24,Group B,Switzerland,Canada,Dummy Mean Baseline,1.7755,0.892875,2,1,2 - 1,team_a_win,switzerland,canada
+,2026-06-24,Group B,Bosnia and Herzegovina/Italy/Northern Ireland/Wales,Qatar,Dummy Mean Baseline,1.7755,0.892875,2,1,2 - 1,team_a_win,bosnia and herzegovina/italy/northern ireland/wales,qatar
+,2026-06-24,Group A,Czechia/Denmark/North Macedonia/Republic of Ireland,Mexico,Dummy Mean Baseline,1.7755,0.892875,2,1,2 - 1,team_a_win,czechia/denmark/north macedonia/republic of ireland,mexico
+,2026-06-24,Group A,South Africa,Korea Republic,Dummy Mean Baseline,1.7755,0.892875,2,1,2 - 1,team_a_win,south africa,korea republic
+,2026-06-25,Group E,Curaçao,Côte d'Ivoire,Dummy Mean Baseline,1.7755,0.892875,2,1,2 - 1,team_a_win,curaçao,côte d'ivoire
+,2026-06-25,Group E,Ecuador,Germany,Dummy Mean Baseline,1.7755,0.892875,2,1,2 - 1,team_a_win,ecuador,germany
+,2026-06-25,Group F,Japan,Albania/Poland/Sweden/Ukraine,Dummy Mean Baseline,1.7755,0.892875,2,1,2 - 1,team_a_win,japan,albania/poland/sweden/ukraine
+,2026-06-25,Group F,Tunisia,Netherlands,Dummy Mean Baseline,1.7755,0.892875,2,1,2 - 1,team_a_win,tunisia,netherlands
+,2026-06-25,Group D,Kosovo/Romania/Slovakia/Türkiye,USA,Dummy Mean Baseline,1.7755,0.892875,2,1,2 - 1,team_a_win,kosovo/romania/slovakia/türkiye,united states
+,2026-06-25,Group D,Paraguay,Australia,Dummy Mean Baseline,1.7755,0.892875,2,1,2 - 1,team_a_win,paraguay,australia
+,2026-06-26,Group I,Norway,France,Dummy Mean Baseline,1.7755,0.892875,2,1,2 - 1,team_a_win,norway,france
+,2026-06-26,Group I,Senegal,Bolivia/Iraq/Suriname,Dummy Mean Baseline,1.7755,0.892875,2,1,2 - 1,team_a_win,senegal,bolivia/iraq/suriname
+,2026-06-26,Group G,Egypt,IR Iran,Dummy Mean Baseline,1.7755,0.892875,2,1,2 - 1,team_a_win,egypt,ir iran
+,2026-06-26,Group G,New Zealand,Belgium,Dummy Mean Baseline,1.7755,0.892875,2,1,2 - 1,team_a_win,new zealand,belgium
+,2026-06-26,Group H,Cabo Verde,Saudi Arabia,Dummy Mean Baseline,1.7755,0.892875,2,1,2 - 1,team_a_win,cabo verde,saudi arabia
+,2026-06-26,Group H,Uruguay,Spain,Dummy Mean Baseline,1.7755,0.892875,2,1,2 - 1,team_a_win,uruguay,spain
+,2026-06-27,Group L,Panama,England,Dummy Mean Baseline,1.7755,0.892875,2,1,2 - 1,team_a_win,panama,england
+,2026-06-27,Group L,Croatia,Ghana,Dummy Mean Baseline,1.7755,0.892875,2,1,2 - 1,team_a_win,croatia,ghana
+,2026-06-27,Group J,Algeria,Austria,Dummy Mean Baseline,1.7755,0.892875,2,1,2 - 1,team_a_win,algeria,austria
+,2026-06-27,Group J,Jordan,Argentina,Dummy Mean Baseline,1.7755,0.892875,2,1,2 - 1,team_a_win,jordan,argentina
+,2026-06-27,Group K,Colombia,Portugal,Dummy Mean Baseline,1.7755,0.892875,2,1,2 - 1,team_a_win,colombia,portugal
+,2026-06-27,Group K,Congo DR/Jamaica/New Caledonia,Uzbekistan,Dummy Mean Baseline,1.7755,0.892875,2,1,2 - 1,team_a_win,congo dr/jamaica/new caledonia,uzbekistan
+,2026-06-11,Group A,Mexico,South Africa,Ridge Regression,1.9612957898897494,0.5694273053162473,2,1,2 - 1,team_a_win,mexico,south africa
+,2026-06-11,Group A,Korea Republic,Czechia/Denmark/North Macedonia/Republic of Ireland,Ridge Regression,5.269701508761562,0.0,5,0,5 - 0,team_a_win,korea republic,czechia/denmark/north macedonia/republic of ireland
+,2026-06-12,Group B,Canada,Bosnia and Herzegovina/Italy/Northern Ireland/Wales,Ridge Regression,5.163963279494846,0.0,5,0,5 - 0,team_a_win,canada,bosnia and herzegovina/italy/northern ireland/wales
+,2026-06-12,Group D,USA,Paraguay,Ridge Regression,1.782300948326909,0.84137749155868,2,1,2 - 1,team_a_win,united states,paraguay
+,2026-06-13,Group C,Haiti,Scotland,Ridge Regression,1.7901277424065118,0.8185635595241944,2,1,2 - 1,team_a_win,haiti,scotland
+,2026-06-13,Group D,Australia,Kosovo/Romania/Slovakia/Türkiye,Ridge Regression,5.185958903932738,0.0,5,0,5 - 0,team_a_win,australia,kosovo/romania/slovakia/türkiye
+,2026-06-13,Group C,Brazil,Morocco,Ridge Regression,1.8187870678507498,0.8130486986931549,2,1,2 - 1,team_a_win,brazil,morocco
+,2026-06-13,Group B,Qatar,Switzerland,Ridge Regression,1.434657461611883,0.9840902276815381,1,1,1 - 1,draw,qatar,switzerland
+,2026-06-14,Group E,Côte d'Ivoire,Ecuador,Ridge Regression,1.7859178013130643,0.6951235442661259,2,1,2 - 1,team_a_win,côte d'ivoire,ecuador
+,2026-06-14,Group E,Germany,Curaçao,Ridge Regression,2.385291599118035,0.6830926211341778,2,1,2 - 1,team_a_win,germany,curaçao
+,2026-06-14,Group F,Netherlands,Japan,Ridge Regression,2.047527733412047,0.665759760811889,2,1,2 - 1,team_a_win,netherlands,japan
+,2026-06-14,Group F,Albania/Poland/Sweden/Ukraine,Tunisia,Ridge Regression,0.8057221392378732,1.389387264340614,1,1,1 - 1,draw,albania/poland/sweden/ukraine,tunisia
+,2026-06-15,Group H,Saudi Arabia,Uruguay,Ridge Regression,1.6058810275773108,0.822534390345632,2,1,2 - 1,team_a_win,saudi arabia,uruguay
+,2026-06-15,Group H,Spain,Cabo Verde,Ridge Regression,2.1102364228376302,0.620280484061001,2,1,2 - 1,team_a_win,spain,cabo verde
+,2026-06-15,Group G,IR Iran,New Zealand,Ridge Regression,2.82466759169573,0.0592452408061771,3,0,3 - 0,team_a_win,ir iran,new zealand
+,2026-06-15,Group G,Belgium,Egypt,Ridge Regression,2.1724059801174995,0.6600495287473198,2,1,2 - 1,team_a_win,belgium,egypt
+,2026-06-16,Group I,France,Senegal,Ridge Regression,1.7615396718278622,0.8927628535535319,2,1,2 - 1,team_a_win,france,senegal
+,2026-06-16,Group I,Bolivia/Iraq/Suriname,Norway,Ridge Regression,0.22952141435164908,1.7354074865197258,0,2,0 - 2,team_b_win,bolivia/iraq/suriname,norway
+,2026-06-16,Group J,Argentina,Algeria,Ridge Regression,2.1501814262743455,0.8722013770479454,2,1,2 - 1,team_a_win,argentina,algeria
+,2026-06-16,Group J,Austria,Jordan,Ridge Regression,2.5275862601384516,0.475129765968808,3,0,3 - 0,team_a_win,austria,jordan
+,2026-06-17,Group L,Ghana,Panama,Ridge Regression,1.8341067500794483,0.9212488526343539,2,1,2 - 1,team_a_win,ghana,panama
+,2026-06-17,Group L,England,Croatia,Ridge Regression,2.13186631131726,0.528132722249404,2,1,2 - 1,team_a_win,england,croatia
+,2026-06-17,Group K,Portugal,Congo DR/Jamaica/New Caledonia,Ridge Regression,5.5939801777590485,0.0,6,0,6 - 0,team_a_win,portugal,congo dr/jamaica/new caledonia
+,2026-06-17,Group K,Uzbekistan,Colombia,Ridge Regression,1.6423464275526258,0.9085395794426684,2,1,2 - 1,team_a_win,uzbekistan,colombia
+,2026-06-18,Group A,Czechia/Denmark/North Macedonia/Republic of Ireland,South Africa,Ridge Regression,0.6969933466045202,1.3926250755504985,1,1,1 - 1,draw,czechia/denmark/north macedonia/republic of ireland,south africa
+,2026-06-18,Group B,Switzerland,Bosnia and Herzegovina/Italy/Northern Ireland/Wales,Ridge Regression,5.435642909633987,0.0,5,0,5 - 0,team_a_win,switzerland,bosnia and herzegovina/italy/northern ireland/wales
+,2026-06-18,Group B,Canada,Qatar,Ridge Regression,2.2804137393394877,0.15409394476110438,2,0,2 - 0,team_a_win,canada,qatar
+,2026-06-18,Group A,Mexico,Korea Republic,Ridge Regression,2.019249819770016,0.4980401627522669,2,0,2 - 0,team_a_win,mexico,korea republic
+,2026-06-19,Group C,Brazil,Haiti,Ridge Regression,2.6927867700298656,0.4694244224034707,3,0,3 - 0,team_a_win,brazil,haiti
+,2026-06-19,Group C,Scotland,Morocco,Ridge Regression,1.2476583221210222,1.2263188533039,1,1,1 - 1,draw,scotland,morocco
+,2026-06-19,Group D,Kosovo/Romania/Slovakia/Türkiye,Paraguay,Ridge Regression,0.6554237299314745,1.3279410309714146,1,1,1 - 1,draw,kosovo/romania/slovakia/türkiye,paraguay
+,2026-06-19,Group D,USA,Australia,Ridge Regression,1.994095848800689,0.8838230779333229,2,1,2 - 1,team_a_win,united states,australia
+,2026-06-20,Group E,Germany,Côte d'Ivoire,Ridge Regression,2.0405851276356777,0.9082764562950166,2,1,2 - 1,team_a_win,germany,côte d'ivoire
+,2026-06-20,Group E,Ecuador,Curaçao,Ridge Regression,1.9997316414476565,0.5939205575673849,2,1,2 - 1,team_a_win,ecuador,curaçao
+,2026-06-20,Group F,Netherlands,Albania/Poland/Sweden/Ukraine,Ridge Regression,5.504154466044696,0.0,6,0,6 - 0,team_a_win,netherlands,albania/poland/sweden/ukraine
+,2026-06-20,Group F,Tunisia,Japan,Ridge Regression,1.3320286314164136,0.9754928939666874,1,1,1 - 1,draw,tunisia,japan
+,2026-06-21,Group H,Uruguay,Cabo Verde,Ridge Regression,1.5735902286637962,0.834754639583024,2,1,2 - 1,team_a_win,uruguay,cabo verde
+,2026-06-21,Group H,Spain,Saudi Arabia,Ridge Regression,2.6586694759523777,0.25008396604506866,3,0,3 - 0,team_a_win,spain,saudi arabia
+,2026-06-21,Group G,Belgium,IR Iran,Ridge Regression,2.247647786091151,0.5737575512368127,2,1,2 - 1,team_a_win,belgium,ir iran
+,2026-06-21,Group G,New Zealand,Egypt,Ridge Regression,1.1247232626379786,1.0451790123000821,1,1,1 - 1,draw,new zealand,egypt
+,2026-06-22,Group I,Norway,Senegal,Ridge Regression,1.8821500968063183,0.9282246735022671,2,1,2 - 1,team_a_win,norway,senegal
+,2026-06-22,Group I,France,Bolivia/Iraq/Suriname,Ridge Regression,5.591708507656589,0.0,6,0,6 - 0,team_a_win,france,bolivia/iraq/suriname
+,2026-06-22,Group J,Argentina,Austria,Ridge Regression,1.8110504802873728,0.7455313494767146,2,1,2 - 1,team_a_win,argentina,austria
+,2026-06-22,Group J,Jordan,Algeria,Ridge Regression,1.3318235665960296,1.1766493494185661,1,1,1 - 1,draw,jordan,algeria
+,2026-06-23,Group L,England,Ghana,Ridge Regression,2.3452861851179856,0.35035906013909746,2,0,2 - 0,team_a_win,england,ghana
+,2026-06-23,Group L,Panama,Croatia,Ridge Regression,1.8863193148181354,1.0500241403375474,2,1,2 - 1,team_a_win,panama,croatia
+,2026-06-23,Group K,Portugal,Uzbekistan,Ridge Regression,2.2135371067386966,0.6246040344693594,2,1,2 - 1,team_a_win,portugal,uzbekistan
+,2026-06-23,Group K,Colombia,Congo DR/Jamaica/New Caledonia,Ridge Regression,5.558546335220915,0.0,6,0,6 - 0,team_a_win,colombia,congo dr/jamaica/new caledonia
+,2026-06-24,Group C,Scotland,Brazil,Ridge Regression,1.5770366386363308,1.0484528972047353,2,1,2 - 1,team_a_win,scotland,brazil
+,2026-06-24,Group C,Morocco,Haiti,Ridge Regression,2.016662766753651,0.49068293991803485,2,0,2 - 0,team_a_win,morocco,haiti
+,2026-06-24,Group B,Switzerland,Canada,Ridge Regression,1.486848879375092,0.9498586010196786,1,1,1 - 1,draw,switzerland,canada
+,2026-06-24,Group B,Bosnia and Herzegovina/Italy/Northern Ireland/Wales,Qatar,Ridge Regression,0.9290639254837162,1.1868609141111472,1,1,1 - 1,draw,bosnia and herzegovina/italy/northern ireland/wales,qatar
+,2026-06-24,Group A,Czechia/Denmark/North Macedonia/Republic of Ireland,Mexico,Ridge Regression,0.3446191671875487,1.5328088090979815,0,2,0 - 2,team_b_win,czechia/denmark/north macedonia/republic of ireland,mexico
+,2026-06-24,Group A,South Africa,Korea Republic,Ridge Regression,1.8845954054760972,0.7757245867633527,2,1,2 - 1,team_a_win,south africa,korea republic
+,2026-06-25,Group E,Curaçao,Côte d'Ivoire,Ridge Regression,1.8036558488388974,0.9805452723052286,2,1,2 - 1,team_a_win,curaçao,côte d'ivoire
+,2026-06-25,Group E,Ecuador,Germany,Ridge Regression,1.2333124159668767,1.2445105882322118,1,1,1 - 1,draw,ecuador,germany
+,2026-06-25,Group F,Japan,Albania/Poland/Sweden/Ukraine,Ridge Regression,5.360206373678958,0.0,5,0,5 - 0,team_a_win,japan,albania/poland/sweden/ukraine
+,2026-06-25,Group F,Tunisia,Netherlands,Ridge Regression,1.3934450638519338,1.0586919398535892,1,1,1 - 1,draw,tunisia,netherlands
+,2026-06-25,Group D,Kosovo/Romania/Slovakia/Türkiye,USA,Ridge Regression,0.9262495382342666,1.4267879123020315,1,1,1 - 1,draw,kosovo/romania/slovakia/türkiye,united states
+,2026-06-25,Group D,Paraguay,Australia,Ridge Regression,1.6386004327317008,0.6620388350107349,2,1,2 - 1,team_a_win,paraguay,australia
+,2026-06-26,Group I,Norway,France,Ridge Regression,1.937616323798868,1.0202789886822448,2,1,2 - 1,team_a_win,norway,france
+,2026-06-26,Group I,Senegal,Bolivia/Iraq/Suriname,Ridge Regression,5.390451503438193,0.0,5,0,5 - 0,team_a_win,senegal,bolivia/iraq/suriname
+,2026-06-26,Group G,Egypt,IR Iran,Ridge Regression,1.4262893941780925,0.6900969356803617,1,1,1 - 1,draw,egypt,ir iran
+,2026-06-26,Group G,New Zealand,Belgium,Ridge Regression,0.8784189957131945,1.4079780987244135,1,1,1 - 1,draw,new zealand,belgium
+,2026-06-26,Group H,Cabo Verde,Saudi Arabia,Ridge Regression,2.164634308962573,0.5297688535428274,2,1,2 - 1,team_a_win,cabo verde,saudi arabia
+,2026-06-26,Group H,Uruguay,Spain,Ridge Regression,0.9161340358536603,1.2336869992549517,1,1,1 - 1,draw,uruguay,spain
+,2026-06-27,Group L,Panama,England,Ridge Regression,0.8509344212235814,1.9670214413182854,1,2,1 - 2,team_b_win,panama,england
+,2026-06-27,Group L,Croatia,Ghana,Ridge Regression,2.2902439855076615,0.6101487184792823,2,1,2 - 1,team_a_win,croatia,ghana
+,2026-06-27,Group J,Algeria,Austria,Ridge Regression,1.6117360076743905,0.8144209009272593,2,1,2 - 1,team_a_win,algeria,austria
+,2026-06-27,Group J,Jordan,Argentina,Ridge Regression,1.2819270238613443,1.217737019685201,1,1,1 - 1,draw,jordan,argentina
+,2026-06-27,Group K,Colombia,Portugal,Ridge Regression,1.9091388099231432,0.9582521676731188,2,1,2 - 1,team_a_win,colombia,portugal
+,2026-06-27,Group K,Congo DR/Jamaica/New Caledonia,Uzbekistan,Ridge Regression,0.6463833573960998,1.3862310177571677,1,1,1 - 1,draw,congo dr/jamaica/new caledonia,uzbekistan
+,2026-06-11,Group A,Mexico,South Africa,Poisson Regression,1.8141432427723505,0.5541790549762066,2,1,2 - 1,team_a_win,mexico,south africa
+,2026-06-11,Group A,Korea Republic,Czechia/Denmark/North Macedonia/Republic of Ireland,Poisson Regression,4.134682555470976,0.27869492876605667,4,0,4 - 0,team_a_win,korea republic,czechia/denmark/north macedonia/republic of ireland
+,2026-06-12,Group B,Canada,Bosnia and Herzegovina/Italy/Northern Ireland/Wales,Poisson Regression,4.117954806697835,0.24044481954053717,4,0,4 - 0,team_a_win,canada,bosnia and herzegovina/italy/northern ireland/wales
+,2026-06-12,Group D,USA,Paraguay,Poisson Regression,1.6801601177786312,0.6639704208712557,2,1,2 - 1,team_a_win,united states,paraguay
+,2026-06-13,Group C,Haiti,Scotland,Poisson Regression,1.7492614516190077,0.7608574337830929,2,1,2 - 1,team_a_win,haiti,scotland
+,2026-06-13,Group D,Australia,Kosovo/Romania/Slovakia/Türkiye,Poisson Regression,4.0126590460768226,0.2834556507424794,4,0,4 - 0,team_a_win,australia,kosovo/romania/slovakia/türkiye
+,2026-06-13,Group C,Brazil,Morocco,Poisson Regression,1.7283449538526976,0.7740720567732529,2,1,2 - 1,team_a_win,brazil,morocco
+,2026-06-13,Group B,Qatar,Switzerland,Poisson Regression,1.4657695630253436,0.8850569657061174,1,1,1 - 1,draw,qatar,switzerland
+,2026-06-14,Group E,Côte d'Ivoire,Ecuador,Poisson Regression,1.746384000754656,0.6737446170286273,2,1,2 - 1,team_a_win,côte d'ivoire,ecuador
+,2026-06-14,Group E,Germany,Curaçao,Poisson Regression,2.3693162784700332,0.5786655164975026,2,1,2 - 1,team_a_win,germany,curaçao
+,2026-06-14,Group F,Netherlands,Japan,Poisson Regression,1.8831804031473385,0.6242715020987225,2,1,2 - 1,team_a_win,netherlands,japan
+,2026-06-14,Group F,Albania/Poland/Sweden/Ukraine,Tunisia,Poisson Regression,1.196823082083117,0.8572403961033415,1,1,1 - 1,draw,albania/poland/sweden/ukraine,tunisia
+,2026-06-15,Group H,Saudi Arabia,Uruguay,Poisson Regression,1.4661829614476676,0.7558361097309428,1,1,1 - 1,draw,saudi arabia,uruguay
+,2026-06-15,Group H,Spain,Cabo Verde,Poisson Regression,2.1343761485539496,0.6605465507584575,2,1,2 - 1,team_a_win,spain,cabo verde
+,2026-06-15,Group G,IR Iran,New Zealand,Poisson Regression,3.1027270349303846,0.33998316694412,3,0,3 - 0,team_a_win,ir iran,new zealand
+,2026-06-15,Group G,Belgium,Egypt,Poisson Regression,2.088670600444354,0.6660836618087154,2,1,2 - 1,team_a_win,belgium,egypt
+,2026-06-16,Group I,France,Senegal,Poisson Regression,1.5791765744620665,0.8243307207141302,2,1,2 - 1,team_a_win,france,senegal
+,2026-06-16,Group I,Bolivia/Iraq/Suriname,Norway,Poisson Regression,0.9328437316144782,1.2867765430866411,1,1,1 - 1,draw,bolivia/iraq/suriname,norway
+,2026-06-16,Group J,Argentina,Algeria,Poisson Regression,1.9019851372656258,0.6075836648166789,2,1,2 - 1,team_a_win,argentina,algeria
+,2026-06-16,Group J,Austria,Jordan,Poisson Regression,2.548244674683631,0.5212418654473452,3,1,3 - 1,team_a_win,austria,jordan
+,2026-06-17,Group L,Ghana,Panama,Poisson Regression,1.6178795708135998,0.8173188627489255,2,1,2 - 1,team_a_win,ghana,panama
+,2026-06-17,Group L,England,Croatia,Poisson Regression,1.9731499249327256,0.5590660960639686,2,1,2 - 1,team_a_win,england,croatia
+,2026-06-17,Group K,Portugal,Congo DR/Jamaica/New Caledonia,Poisson Regression,5.0510845737219725,0.2498225544414983,5,0,5 - 0,team_a_win,portugal,congo dr/jamaica/new caledonia
+,2026-06-17,Group K,Uzbekistan,Colombia,Poisson Regression,1.5847305092259572,0.8398681378847963,2,1,2 - 1,team_a_win,uzbekistan,colombia
+,2026-06-18,Group A,Czechia/Denmark/North Macedonia/Republic of Ireland,South Africa,Poisson Regression,1.1640975715597541,0.8802267162678871,1,1,1 - 1,draw,czechia/denmark/north macedonia/republic of ireland,south africa
+,2026-06-18,Group B,Switzerland,Bosnia and Herzegovina/Italy/Northern Ireland/Wales,Poisson Regression,4.7261437151069625,0.2648271562031272,5,0,5 - 0,team_a_win,switzerland,bosnia and herzegovina/italy/northern ireland/wales
+,2026-06-18,Group B,Canada,Qatar,Poisson Regression,2.386647504931509,0.3727253380202004,2,0,2 - 0,team_a_win,canada,qatar
+,2026-06-18,Group A,Mexico,Korea Republic,Poisson Regression,1.8443348449649113,0.5240082628292743,2,1,2 - 1,team_a_win,mexico,korea republic
+,2026-06-19,Group C,Brazil,Haiti,Poisson Regression,2.4078725919410298,0.5216104959947677,2,1,2 - 1,team_a_win,brazil,haiti
+,2026-06-19,Group C,Scotland,Morocco,Poisson Regression,1.2058684551670942,1.0273362168612785,1,1,1 - 1,draw,scotland,morocco
+,2026-06-19,Group D,Kosovo/Romania/Slovakia/Türkiye,Paraguay,Poisson Regression,1.167390711838621,0.8247637798281892,1,1,1 - 1,draw,kosovo/romania/slovakia/türkiye,paraguay
+,2026-06-19,Group D,USA,Australia,Poisson Regression,1.8673850494467201,0.6688667782422809,2,1,2 - 1,team_a_win,united states,australia
+,2026-06-20,Group E,Germany,Côte d'Ivoire,Poisson Regression,1.8143290020395049,0.6996223834527413,2,1,2 - 1,team_a_win,germany,côte d'ivoire
+,2026-06-20,Group E,Ecuador,Curaçao,Poisson Regression,1.9674886379434546,0.5834388883773657,2,1,2 - 1,team_a_win,ecuador,curaçao
+,2026-06-20,Group F,Netherlands,Albania/Poland/Sweden/Ukraine,Poisson Regression,4.846484477202067,0.25353508194437285,5,0,5 - 0,team_a_win,netherlands,albania/poland/sweden/ukraine
+,2026-06-20,Group F,Tunisia,Japan,Poisson Regression,1.2057967475338687,0.8820202749259706,1,1,1 - 1,draw,tunisia,japan
+,2026-06-21,Group H,Uruguay,Cabo Verde,Poisson Regression,1.5389233881846738,0.7662247807799918,2,1,2 - 1,team_a_win,uruguay,cabo verde
+,2026-06-21,Group H,Spain,Saudi Arabia,Poisson Regression,2.865423769535443,0.39541949871353715,3,0,3 - 0,team_a_win,spain,saudi arabia
+,2026-06-21,Group G,Belgium,IR Iran,Poisson Regression,2.448203558872825,0.6417921323919432,2,1,2 - 1,team_a_win,belgium,ir iran
+,2026-06-21,Group G,New Zealand,Egypt,Poisson Regression,1.1397128495962634,1.079425440099847,1,1,1 - 1,draw,new zealand,egypt
+,2026-06-22,Group I,Norway,Senegal,Poisson Regression,1.6282742615817904,0.8911523593622093,2,1,2 - 1,team_a_win,norway,senegal
+,2026-06-22,Group I,France,Bolivia/Iraq/Suriname,Poisson Regression,5.02273026258981,0.2470757739790702,5,0,5 - 0,team_a_win,france,bolivia/iraq/suriname
+,2026-06-22,Group J,Argentina,Austria,Poisson Regression,1.8698061635279368,0.7611776960222375,2,1,2 - 1,team_a_win,argentina,austria
+,2026-06-22,Group J,Jordan,Algeria,Poisson Regression,1.3230703886382231,1.048465810554259,1,1,1 - 1,draw,jordan,algeria
+,2026-06-23,Group L,England,Ghana,Poisson Regression,2.4647075635753404,0.4739040820244509,2,0,2 - 0,team_a_win,england,ghana
+,2026-06-23,Group L,Panama,Croatia,Poisson Regression,1.6975744443349534,0.8323213592230218,2,1,2 - 1,team_a_win,panama,croatia
+,2026-06-23,Group K,Portugal,Uzbekistan,Poisson Regression,2.258997105570759,0.5871533652289779,2,1,2 - 1,team_a_win,portugal,uzbekistan
+,2026-06-23,Group K,Colombia,Congo DR/Jamaica/New Caledonia,Poisson Regression,4.927206947136087,0.2665934404047535,5,0,5 - 0,team_a_win,colombia,congo dr/jamaica/new caledonia
+,2026-06-24,Group C,Scotland,Brazil,Poisson Regression,1.4127145859161643,0.91521188666673,1,1,1 - 1,draw,scotland,brazil
+,2026-06-24,Group C,Morocco,Haiti,Poisson Regression,2.0777998588638207,0.5650499668640087,2,1,2 - 1,team_a_win,morocco,haiti
+,2026-06-24,Group B,Switzerland,Canada,Poisson Regression,1.3586830835405828,0.8227660323157924,1,1,1 - 1,draw,switzerland,canada
+,2026-06-24,Group B,Bosnia and Herzegovina/Italy/Northern Ireland/Wales,Qatar,Poisson Regression,1.352099269740471,0.6873387779698676,1,1,1 - 1,draw,bosnia and herzegovina/italy/northern ireland/wales,qatar
+,2026-06-24,Group A,Czechia/Denmark/North Macedonia/Republic of Ireland,Mexico,Poisson Regression,0.9815501222637723,1.0775094868275823,1,1,1 - 1,draw,czechia/denmark/north macedonia/republic of ireland,mexico
+,2026-06-24,Group A,South Africa,Korea Republic,Poisson Regression,1.7385639573208613,0.6942947852271227,2,1,2 - 1,team_a_win,south africa,korea republic
+,2026-06-25,Group E,Curaçao,Côte d'Ivoire,Poisson Regression,1.6888068144364985,0.8678357862802775,2,1,2 - 1,team_a_win,curaçao,côte d'ivoire
+,2026-06-25,Group E,Ecuador,Germany,Poisson Regression,1.0805413513791668,0.9921379031545151,1,1,1 - 1,draw,ecuador,germany
+,2026-06-25,Group F,Japan,Albania/Poland/Sweden/Ukraine,Poisson Regression,4.455586682471596,0.22885253491514754,4,0,4 - 0,team_a_win,japan,albania/poland/sweden/ukraine
+,2026-06-25,Group F,Tunisia,Netherlands,Poisson Regression,1.3497024625924323,0.938378181065562,1,1,1 - 1,draw,tunisia,netherlands
+,2026-06-25,Group D,Kosovo/Romania/Slovakia/Türkiye,USA,Poisson Regression,1.2316891285218656,0.8541990464357297,1,1,1 - 1,draw,kosovo/romania/slovakia/türkiye,united states
+,2026-06-25,Group D,Paraguay,Australia,Poisson Regression,1.5929469580721507,0.6887781625134983,2,1,2 - 1,team_a_win,paraguay,australia
+,2026-06-26,Group I,Norway,France,Poisson Regression,1.7238954601399246,0.8645805059957372,2,1,2 - 1,team_a_win,norway,france
+,2026-06-26,Group I,Senegal,Bolivia/Iraq/Suriname,Poisson Regression,4.57952981180491,0.23876042794297211,5,0,5 - 0,team_a_win,senegal,bolivia/iraq/suriname
+,2026-06-26,Group G,Egypt,IR Iran,Poisson Regression,1.5279570106641933,0.7087463514580401,2,1,2 - 1,team_a_win,egypt,ir iran
+,2026-06-26,Group G,New Zealand,Belgium,Poisson Regression,1.0526011810448306,1.5089959699321223,1,2,1 - 2,team_b_win,new zealand,belgium
+,2026-06-26,Group H,Cabo Verde,Saudi Arabia,Poisson Regression,2.247194111712899,0.5322140382560384,2,1,2 - 1,team_a_win,cabo verde,saudi arabia
+,2026-06-26,Group H,Uruguay,Spain,Poisson Regression,1.0265274607908792,1.123931724366786,1,1,1 - 1,draw,uruguay,spain
+,2026-06-27,Group L,Panama,England,Poisson Regression,0.8631580136301643,1.4009022064875787,1,1,1 - 1,draw,panama,england
+,2026-06-27,Group L,Croatia,Ghana,Poisson Regression,2.31303399848174,0.5292833200024378,2,1,2 - 1,team_a_win,croatia,ghana
+,2026-06-27,Group J,Algeria,Austria,Poisson Regression,1.6775909946138134,0.8024995443282844,2,1,2 - 1,team_a_win,algeria,austria
+,2026-06-27,Group J,Jordan,Argentina,Poisson Regression,1.3286613436658867,1.1064168659976878,1,1,1 - 1,draw,jordan,argentina
+,2026-06-27,Group K,Colombia,Portugal,Poisson Regression,1.8014751816191685,0.8483440842865352,2,1,2 - 1,team_a_win,colombia,portugal
+,2026-06-27,Group K,Congo DR/Jamaica/New Caledonia,Uzbekistan,Poisson Regression,1.159557852755091,0.8792985567325776,1,1,1 - 1,draw,congo dr/jamaica/new caledonia,uzbekistan
+,2026-06-11,Group A,Mexico,South Africa,Random Forest Regressor,2.0101308009754546,0.6149909345608736,2,1,2 - 1,team_a_win,mexico,south africa
+,2026-06-11,Group A,Korea Republic,Czechia/Denmark/North Macedonia/Republic of Ireland,Random Forest Regressor,5.770642754218608,0.3342048360973769,6,0,6 - 0,team_a_win,korea republic,czechia/denmark/north macedonia/republic of ireland
+,2026-06-12,Group B,Canada,Bosnia and Herzegovina/Italy/Northern Ireland/Wales,Random Forest Regressor,5.252424150457477,0.4313273540384564,5,0,5 - 0,team_a_win,canada,bosnia and herzegovina/italy/northern ireland/wales
+,2026-06-12,Group D,USA,Paraguay,Random Forest Regressor,1.5691937895652621,0.5336207166579081,2,1,2 - 1,team_a_win,united states,paraguay
+,2026-06-13,Group C,Haiti,Scotland,Random Forest Regressor,1.7313955478020602,0.6480123259170266,2,1,2 - 1,team_a_win,haiti,scotland
+,2026-06-13,Group D,Australia,Kosovo/Romania/Slovakia/Türkiye,Random Forest Regressor,5.280551104664935,0.35696027439982364,5,0,5 - 0,team_a_win,australia,kosovo/romania/slovakia/türkiye
+,2026-06-13,Group C,Brazil,Morocco,Random Forest Regressor,2.0062228217935894,0.6597516000430292,2,1,2 - 1,team_a_win,brazil,morocco
+,2026-06-13,Group B,Qatar,Switzerland,Random Forest Regressor,1.7886224101963284,0.9353571690975048,2,1,2 - 1,team_a_win,qatar,switzerland
+,2026-06-14,Group E,Côte d'Ivoire,Ecuador,Random Forest Regressor,1.7850937424596733,0.7312241104950774,2,1,2 - 1,team_a_win,côte d'ivoire,ecuador
+,2026-06-14,Group E,Germany,Curaçao,Random Forest Regressor,2.4121604894200708,0.5151655530830765,2,1,2 - 1,team_a_win,germany,curaçao
+,2026-06-14,Group F,Netherlands,Japan,Random Forest Regressor,1.8059036985799273,0.6961831779844182,2,1,2 - 1,team_a_win,netherlands,japan
+,2026-06-14,Group F,Albania/Poland/Sweden/Ukraine,Tunisia,Random Forest Regressor,1.3971851769198134,0.820388208674418,1,1,1 - 1,draw,albania/poland/sweden/ukraine,tunisia
+,2026-06-15,Group H,Saudi Arabia,Uruguay,Random Forest Regressor,1.629161004455004,0.5725088600844176,2,1,2 - 1,team_a_win,saudi arabia,uruguay
+,2026-06-15,Group H,Spain,Cabo Verde,Random Forest Regressor,2.2793845368245185,0.937717510714937,2,1,2 - 1,team_a_win,spain,cabo verde
+,2026-06-15,Group G,IR Iran,New Zealand,Random Forest Regressor,2.5045300113532663,0.30823438927122365,3,0,3 - 0,team_a_win,ir iran,new zealand
+,2026-06-15,Group G,Belgium,Egypt,Random Forest Regressor,1.714427117260968,0.6226669371687651,2,1,2 - 1,team_a_win,belgium,egypt
+,2026-06-16,Group I,France,Senegal,Random Forest Regressor,1.830921622385999,0.6778729032297377,2,1,2 - 1,team_a_win,france,senegal
+,2026-06-16,Group I,Bolivia/Iraq/Suriname,Norway,Random Forest Regressor,1.6609378740656457,0.8836245133946483,2,1,2 - 1,team_a_win,bolivia/iraq/suriname,norway
+,2026-06-16,Group J,Argentina,Algeria,Random Forest Regressor,2.1624590922415776,0.5577312920475654,2,1,2 - 1,team_a_win,argentina,algeria
+,2026-06-16,Group J,Austria,Jordan,Random Forest Regressor,2.4623187725719604,0.46923972637724903,2,0,2 - 0,team_a_win,austria,jordan
+,2026-06-17,Group L,Ghana,Panama,Random Forest Regressor,1.8453809483540773,0.8537972102039391,2,1,2 - 1,team_a_win,ghana,panama
+,2026-06-17,Group L,England,Croatia,Random Forest Regressor,2.020089974790909,0.6239728057765258,2,1,2 - 1,team_a_win,england,croatia
+,2026-06-17,Group K,Portugal,Congo DR/Jamaica/New Caledonia,Random Forest Regressor,4.9526031152066885,0.4320643668374722,5,0,5 - 0,team_a_win,portugal,congo dr/jamaica/new caledonia
+,2026-06-17,Group K,Uzbekistan,Colombia,Random Forest Regressor,1.8987777896373659,0.7073929247116473,2,1,2 - 1,team_a_win,uzbekistan,colombia
+,2026-06-18,Group A,Czechia/Denmark/North Macedonia/Republic of Ireland,South Africa,Random Forest Regressor,1.4765478555257587,0.843501614005998,1,1,1 - 1,draw,czechia/denmark/north macedonia/republic of ireland,south africa
+,2026-06-18,Group B,Switzerland,Bosnia and Herzegovina/Italy/Northern Ireland/Wales,Random Forest Regressor,5.008248023934474,0.4185384419587948,5,0,5 - 0,team_a_win,switzerland,bosnia and herzegovina/italy/northern ireland/wales
+,2026-06-18,Group B,Canada,Qatar,Random Forest Regressor,1.9392540079613814,0.47241466500123624,2,0,2 - 0,team_a_win,canada,qatar
+,2026-06-18,Group A,Mexico,Korea Republic,Random Forest Regressor,1.8851094696143498,0.7991897164515368,2,1,2 - 1,team_a_win,mexico,korea republic
+,2026-06-19,Group C,Brazil,Haiti,Random Forest Regressor,2.1347556390710434,0.6161591265549958,2,1,2 - 1,team_a_win,brazil,haiti
+,2026-06-19,Group C,Scotland,Morocco,Random Forest Regressor,1.794615180291214,0.8195600104852979,2,1,2 - 1,team_a_win,scotland,morocco
+,2026-06-19,Group D,Kosovo/Romania/Slovakia/Türkiye,Paraguay,Random Forest Regressor,1.4727000065263038,0.8356589506263913,1,1,1 - 1,draw,kosovo/romania/slovakia/türkiye,paraguay
+,2026-06-19,Group D,USA,Australia,Random Forest Regressor,1.6744905952221005,0.5249500081101058,2,1,2 - 1,team_a_win,united states,australia
+,2026-06-20,Group E,Germany,Côte d'Ivoire,Random Forest Regressor,1.794981770512696,0.6285602683191083,2,1,2 - 1,team_a_win,germany,côte d'ivoire
+,2026-06-20,Group E,Ecuador,Curaçao,Random Forest Regressor,1.8393691808535826,0.7342256972685746,2,1,2 - 1,team_a_win,ecuador,curaçao
+,2026-06-20,Group F,Netherlands,Albania/Poland/Sweden/Ukraine,Random Forest Regressor,5.046683214760334,0.4064522774709261,5,0,5 - 0,team_a_win,netherlands,albania/poland/sweden/ukraine
+,2026-06-20,Group F,Tunisia,Japan,Random Forest Regressor,1.3177138320442991,0.7143317690411165,1,1,1 - 1,draw,tunisia,japan
+,2026-06-21,Group H,Uruguay,Cabo Verde,Random Forest Regressor,1.5568060862642086,0.622632097135316,2,1,2 - 1,team_a_win,uruguay,cabo verde
+,2026-06-21,Group H,Spain,Saudi Arabia,Random Forest Regressor,2.5208923563995103,0.5641386669927358,3,1,3 - 1,team_a_win,spain,saudi arabia
+,2026-06-21,Group G,Belgium,IR Iran,Random Forest Regressor,2.3631940527032627,0.6761149384575313,2,1,2 - 1,team_a_win,belgium,ir iran
+,2026-06-21,Group G,New Zealand,Egypt,Random Forest Regressor,1.4972898086748212,0.8387500197407151,1,1,1 - 1,draw,new zealand,egypt
+,2026-06-22,Group I,Norway,Senegal,Random Forest Regressor,1.8216114158776557,0.7181029715464032,2,1,2 - 1,team_a_win,norway,senegal
+,2026-06-22,Group I,France,Bolivia/Iraq/Suriname,Random Forest Regressor,4.886487738086332,0.4515767767836225,5,0,5 - 0,team_a_win,france,bolivia/iraq/suriname
+,2026-06-22,Group J,Argentina,Austria,Random Forest Regressor,1.7677044884121005,0.7446977553253341,2,1,2 - 1,team_a_win,argentina,austria
+,2026-06-22,Group J,Jordan,Algeria,Random Forest Regressor,1.5648648882632628,0.923001972910039,2,1,2 - 1,team_a_win,jordan,algeria
+,2026-06-23,Group L,England,Ghana,Random Forest Regressor,2.5541502507117855,0.6817150444401859,3,1,3 - 1,team_a_win,england,ghana
+,2026-06-23,Group L,Panama,Croatia,Random Forest Regressor,2.0559035497891487,0.6489455127643273,2,1,2 - 1,team_a_win,panama,croatia
+,2026-06-23,Group K,Portugal,Uzbekistan,Random Forest Regressor,2.174327865178607,0.5865367580814387,2,1,2 - 1,team_a_win,portugal,uzbekistan
+,2026-06-23,Group K,Colombia,Congo DR/Jamaica/New Caledonia,Random Forest Regressor,4.915105926663522,0.42668120190418934,5,0,5 - 0,team_a_win,colombia,congo dr/jamaica/new caledonia
+,2026-06-24,Group C,Scotland,Brazil,Random Forest Regressor,1.9414667584777048,0.8869739098496164,2,1,2 - 1,team_a_win,scotland,brazil
+,2026-06-24,Group C,Morocco,Haiti,Random Forest Regressor,2.0254764072874534,0.6885431179558419,2,1,2 - 1,team_a_win,morocco,haiti
+,2026-06-24,Group B,Switzerland,Canada,Random Forest Regressor,1.7959574947721084,0.7439693530119746,2,1,2 - 1,team_a_win,switzerland,canada
+,2026-06-24,Group B,Bosnia and Herzegovina/Italy/Northern Ireland/Wales,Qatar,Random Forest Regressor,1.3095143196274455,0.5919073313749347,1,1,1 - 1,draw,bosnia and herzegovina/italy/northern ireland/wales,qatar
+,2026-06-24,Group A,Czechia/Denmark/North Macedonia/Republic of Ireland,Mexico,Random Forest Regressor,1.588100783936993,0.6675853608611455,2,1,2 - 1,team_a_win,czechia/denmark/north macedonia/republic of ireland,mexico
+,2026-06-24,Group A,South Africa,Korea Republic,Random Forest Regressor,1.7962661908149375,0.6977225918156141,2,1,2 - 1,team_a_win,south africa,korea republic
+,2026-06-25,Group E,Curaçao,Côte d'Ivoire,Random Forest Regressor,1.6239697002888496,0.6444927257867822,2,1,2 - 1,team_a_win,curaçao,côte d'ivoire
+,2026-06-25,Group E,Ecuador,Germany,Random Forest Regressor,1.6663565874609345,0.8788672207065067,2,1,2 - 1,team_a_win,ecuador,germany
+,2026-06-25,Group F,Japan,Albania/Poland/Sweden/Ukraine,Random Forest Regressor,4.999086660902449,0.42252304374512734,5,0,5 - 0,team_a_win,japan,albania/poland/sweden/ukraine
+,2026-06-25,Group F,Tunisia,Netherlands,Random Forest Regressor,1.5015114247491457,0.770305227054006,2,1,2 - 1,team_a_win,tunisia,netherlands
+,2026-06-25,Group D,Kosovo/Romania/Slovakia/Türkiye,USA,Random Forest Regressor,1.5786551992837734,0.9083900387379562,2,1,2 - 1,team_a_win,kosovo/romania/slovakia/türkiye,united states
+,2026-06-25,Group D,Paraguay,Australia,Random Forest Regressor,1.7883349646443014,0.5740599873479272,2,1,2 - 1,team_a_win,paraguay,australia
+,2026-06-26,Group I,Norway,France,Random Forest Regressor,1.966391158127469,1.0017591445244298,2,1,2 - 1,team_a_win,norway,france
+,2026-06-26,Group I,Senegal,Bolivia/Iraq/Suriname,Random Forest Regressor,5.0134286320202905,0.40254564155317735,5,0,5 - 0,team_a_win,senegal,bolivia/iraq/suriname
+,2026-06-26,Group G,Egypt,IR Iran,Random Forest Regressor,1.4385602172358913,0.6736628088401462,1,1,1 - 1,draw,egypt,ir iran
+,2026-06-26,Group G,New Zealand,Belgium,Random Forest Regressor,1.5812907576958828,0.7048653420141505,2,1,2 - 1,team_a_win,new zealand,belgium
+,2026-06-26,Group H,Cabo Verde,Saudi Arabia,Random Forest Regressor,1.981605780398606,0.49407388646162276,2,0,2 - 0,team_a_win,cabo verde,saudi arabia
+,2026-06-26,Group H,Uruguay,Spain,Random Forest Regressor,1.674347387028664,0.9341059239171792,2,1,2 - 1,team_a_win,uruguay,spain
+,2026-06-27,Group L,Panama,England,Random Forest Regressor,1.8191726384775373,1.098340250109913,2,1,2 - 1,team_a_win,panama,england
+,2026-06-27,Group L,Croatia,Ghana,Random Forest Regressor,2.122153493211476,0.45512540681226143,2,0,2 - 0,team_a_win,croatia,ghana
+,2026-06-27,Group J,Algeria,Austria,Random Forest Regressor,1.882484112065509,0.8082736631004327,2,1,2 - 1,team_a_win,algeria,austria
+,2026-06-27,Group J,Jordan,Argentina,Random Forest Regressor,1.5646116852343375,0.6699398955423775,2,1,2 - 1,team_a_win,jordan,argentina
+,2026-06-27,Group K,Colombia,Portugal,Random Forest Regressor,1.8154324976606149,0.8623674166762305,2,1,2 - 1,team_a_win,colombia,portugal
+,2026-06-27,Group K,Congo DR/Jamaica/New Caledonia,Uzbekistan,Random Forest Regressor,1.433936003737379,0.753846811136129,1,1,1 - 1,draw,congo dr/jamaica/new caledonia,uzbekistan
+,2026-06-11,Group A,Mexico,South Africa,Gradient Boosting Regressor,1.8845767041521493,0.6742662900514473,2,1,2 - 1,team_a_win,mexico,south africa
+,2026-06-11,Group A,Korea Republic,Czechia/Denmark/North Macedonia/Republic of Ireland,Gradient Boosting Regressor,5.21946990707157,0.09442753804993957,5,0,5 - 0,team_a_win,korea republic,czechia/denmark/north macedonia/republic of ireland
+,2026-06-12,Group B,Canada,Bosnia and Herzegovina/Italy/Northern Ireland/Wales,Gradient Boosting Regressor,5.466938197687062,0.3521708831681637,5,0,5 - 0,team_a_win,canada,bosnia and herzegovina/italy/northern ireland/wales
+,2026-06-12,Group D,USA,Paraguay,Gradient Boosting Regressor,1.7304189201283915,0.6674800276724542,2,1,2 - 1,team_a_win,united states,paraguay
+,2026-06-13,Group C,Haiti,Scotland,Gradient Boosting Regressor,1.5985089984934377,0.7205673739917493,2,1,2 - 1,team_a_win,haiti,scotland
+,2026-06-13,Group D,Australia,Kosovo/Romania/Slovakia/Türkiye,Gradient Boosting Regressor,5.059306586357223,0.1354830505779996,5,0,5 - 0,team_a_win,australia,kosovo/romania/slovakia/türkiye
+,2026-06-13,Group C,Brazil,Morocco,Gradient Boosting Regressor,1.9459398086618744,0.6686530263218674,2,1,2 - 1,team_a_win,brazil,morocco
+,2026-06-13,Group B,Qatar,Switzerland,Gradient Boosting Regressor,1.3943648819023557,0.6618750509073498,1,1,1 - 1,draw,qatar,switzerland
+,2026-06-14,Group E,Côte d'Ivoire,Ecuador,Gradient Boosting Regressor,1.7916587969762925,0.5260915360432471,2,1,2 - 1,team_a_win,côte d'ivoire,ecuador
+,2026-06-14,Group E,Germany,Curaçao,Gradient Boosting Regressor,2.100567919739149,0.6179345267210958,2,1,2 - 1,team_a_win,germany,curaçao
+,2026-06-14,Group F,Netherlands,Japan,Gradient Boosting Regressor,2.0835393363863757,0.6826125146649262,2,1,2 - 1,team_a_win,netherlands,japan
+,2026-06-14,Group F,Albania/Poland/Sweden/Ukraine,Tunisia,Gradient Boosting Regressor,1.3038838141764582,0.9735358682996541,1,1,1 - 1,draw,albania/poland/sweden/ukraine,tunisia
+,2026-06-15,Group H,Saudi Arabia,Uruguay,Gradient Boosting Regressor,1.6246634762757353,0.7025865649092539,2,1,2 - 1,team_a_win,saudi arabia,uruguay
+,2026-06-15,Group H,Spain,Cabo Verde,Gradient Boosting Regressor,1.9955769383875919,0.6798348986204066,2,1,2 - 1,team_a_win,spain,cabo verde
+,2026-06-15,Group G,IR Iran,New Zealand,Gradient Boosting Regressor,2.5316990528820313,0.3659845704341858,3,0,3 - 0,team_a_win,ir iran,new zealand
+,2026-06-15,Group G,Belgium,Egypt,Gradient Boosting Regressor,2.082035941506832,0.6864062491227924,2,1,2 - 1,team_a_win,belgium,egypt
+,2026-06-16,Group I,France,Senegal,Gradient Boosting Regressor,1.8400807878020586,0.6588141527343105,2,1,2 - 1,team_a_win,france,senegal
+,2026-06-16,Group I,Bolivia/Iraq/Suriname,Norway,Gradient Boosting Regressor,1.1222217507755663,0.8357392165995153,1,1,1 - 1,draw,bolivia/iraq/suriname,norway
+,2026-06-16,Group J,Argentina,Algeria,Gradient Boosting Regressor,2.0481046006434926,0.6576651304611237,2,1,2 - 1,team_a_win,argentina,algeria
+,2026-06-16,Group J,Austria,Jordan,Gradient Boosting Regressor,2.2166879003350184,0.5969295732114263,2,1,2 - 1,team_a_win,austria,jordan
+,2026-06-17,Group L,Ghana,Panama,Gradient Boosting Regressor,1.5837469294853315,0.74453025301989,2,1,2 - 1,team_a_win,ghana,panama
+,2026-06-17,Group L,England,Croatia,Gradient Boosting Regressor,1.9616660082137087,0.6343323307570337,2,1,2 - 1,team_a_win,england,croatia
+,2026-06-17,Group K,Portugal,Congo DR/Jamaica/New Caledonia,Gradient Boosting Regressor,4.380482069226865,0.08335605942021647,4,0,4 - 0,team_a_win,portugal,congo dr/jamaica/new caledonia
+,2026-06-17,Group K,Uzbekistan,Colombia,Gradient Boosting Regressor,1.6141331115221567,0.8053815056881967,2,1,2 - 1,team_a_win,uzbekistan,colombia
+,2026-06-18,Group A,Czechia/Denmark/North Macedonia/Republic of Ireland,South Africa,Gradient Boosting Regressor,1.2382033742437373,0.9735358682996541,1,1,1 - 1,draw,czechia/denmark/north macedonia/republic of ireland,south africa
+,2026-06-18,Group B,Switzerland,Bosnia and Herzegovina/Italy/Northern Ireland/Wales,Gradient Boosting Regressor,4.48651070979941,0.2281571848515117,4,0,4 - 0,team_a_win,switzerland,bosnia and herzegovina/italy/northern ireland/wales
+,2026-06-18,Group B,Canada,Qatar,Gradient Boosting Regressor,2.039434925859893,0.4426103380423559,2,0,2 - 0,team_a_win,canada,qatar
+,2026-06-18,Group A,Mexico,Korea Republic,Gradient Boosting Regressor,1.7612270611825787,0.6277310329709581,2,1,2 - 1,team_a_win,mexico,korea republic
+,2026-06-19,Group C,Brazil,Haiti,Gradient Boosting Regressor,2.459798464473412,0.640642431805686,2,1,2 - 1,team_a_win,brazil,haiti
+,2026-06-19,Group C,Scotland,Morocco,Gradient Boosting Regressor,1.5549496150367603,0.7127547630259541,2,1,2 - 1,team_a_win,scotland,morocco
+,2026-06-19,Group D,Kosovo/Romania/Slovakia/Türkiye,Paraguay,Gradient Boosting Regressor,1.2469183928785057,0.9398006337858236,1,1,1 - 1,draw,kosovo/romania/slovakia/türkiye,paraguay
+,2026-06-19,Group D,USA,Australia,Gradient Boosting Regressor,1.8190802798523296,0.7260888850925911,2,1,2 - 1,team_a_win,united states,australia
+,2026-06-20,Group E,Germany,Côte d'Ivoire,Gradient Boosting Regressor,1.9078303098512248,0.7866187470071784,2,1,2 - 1,team_a_win,germany,côte d'ivoire
+,2026-06-20,Group E,Ecuador,Curaçao,Gradient Boosting Regressor,1.782819864608793,0.6754905219075625,2,1,2 - 1,team_a_win,ecuador,curaçao
+,2026-06-20,Group F,Netherlands,Albania/Poland/Sweden/Ukraine,Gradient Boosting Regressor,4.485616792565194,0.07691065616262484,4,0,4 - 0,team_a_win,netherlands,albania/poland/sweden/ukraine
+,2026-06-20,Group F,Tunisia,Japan,Gradient Boosting Regressor,1.487539836080337,0.9279368356447097,1,1,1 - 1,draw,tunisia,japan
+,2026-06-21,Group H,Uruguay,Cabo Verde,Gradient Boosting Regressor,1.563861207567615,0.7004103072827006,2,1,2 - 1,team_a_win,uruguay,cabo verde
+,2026-06-21,Group H,Spain,Saudi Arabia,Gradient Boosting Regressor,2.6132833834023543,0.48389480478141594,3,0,3 - 0,team_a_win,spain,saudi arabia
+,2026-06-21,Group G,Belgium,IR Iran,Gradient Boosting Regressor,2.2260188062946247,0.6686391568466925,2,1,2 - 1,team_a_win,belgium,ir iran
+,2026-06-21,Group G,New Zealand,Egypt,Gradient Boosting Regressor,1.364958592520681,0.8412509981546309,1,1,1 - 1,draw,new zealand,egypt
+,2026-06-22,Group I,Norway,Senegal,Gradient Boosting Regressor,1.7770336046926556,0.7497443798991756,2,1,2 - 1,team_a_win,norway,senegal
+,2026-06-22,Group I,France,Bolivia/Iraq/Suriname,Gradient Boosting Regressor,4.487195814011875,0.08335605942021647,4,0,4 - 0,team_a_win,france,bolivia/iraq/suriname
+,2026-06-22,Group J,Argentina,Austria,Gradient Boosting Regressor,1.8897160283388708,0.7617533374863428,2,1,2 - 1,team_a_win,argentina,austria
+,2026-06-22,Group J,Jordan,Algeria,Gradient Boosting Regressor,1.5288635069231984,0.8109655879397366,2,1,2 - 1,team_a_win,jordan,algeria
+,2026-06-23,Group L,England,Ghana,Gradient Boosting Regressor,2.384186198577695,0.5947101133123139,2,1,2 - 1,team_a_win,england,ghana
+,2026-06-23,Group L,Panama,Croatia,Gradient Boosting Regressor,1.6570137993681717,0.7479080931233268,2,1,2 - 1,team_a_win,panama,croatia
+,2026-06-23,Group K,Portugal,Uzbekistan,Gradient Boosting Regressor,2.1168691276625853,0.5575827227678319,2,1,2 - 1,team_a_win,portugal,uzbekistan
+,2026-06-23,Group K,Colombia,Congo DR/Jamaica/New Caledonia,Gradient Boosting Regressor,4.633606568690737,0.09472673149738435,5,0,5 - 0,team_a_win,colombia,congo dr/jamaica/new caledonia
+,2026-06-24,Group C,Scotland,Brazil,Gradient Boosting Regressor,1.7181965281358902,0.8159888087532984,2,1,2 - 1,team_a_win,scotland,brazil
+,2026-06-24,Group C,Morocco,Haiti,Gradient Boosting Regressor,1.9188729025483418,0.6367148377407653,2,1,2 - 1,team_a_win,morocco,haiti
+,2026-06-24,Group B,Switzerland,Canada,Gradient Boosting Regressor,1.7540237396125398,0.6766854079637087,2,1,2 - 1,team_a_win,switzerland,canada
+,2026-06-24,Group B,Bosnia and Herzegovina/Italy/Northern Ireland/Wales,Qatar,Gradient Boosting Regressor,1.5349944747413524,1.0095963483763297,2,1,2 - 1,team_a_win,bosnia and herzegovina/italy/northern ireland/wales,qatar
+,2026-06-24,Group A,Czechia/Denmark/North Macedonia/Republic of Ireland,Mexico,Gradient Boosting Regressor,1.1352826332753403,0.9198244737001519,1,1,1 - 1,draw,czechia/denmark/north macedonia/republic of ireland,mexico
+,2026-06-24,Group A,South Africa,Korea Republic,Gradient Boosting Regressor,1.694974235486588,0.7107532737707902,2,1,2 - 1,team_a_win,south africa,korea republic
+,2026-06-25,Group E,Curaçao,Côte d'Ivoire,Gradient Boosting Regressor,1.635087864989934,0.7849110276781897,2,1,2 - 1,team_a_win,curaçao,côte d'ivoire
+,2026-06-25,Group E,Ecuador,Germany,Gradient Boosting Regressor,1.3289517932040051,0.9664716383238895,1,1,1 - 1,draw,ecuador,germany
+,2026-06-25,Group F,Japan,Albania/Poland/Sweden/Ukraine,Gradient Boosting Regressor,4.439800665835205,0.09355092400920612,4,0,4 - 0,team_a_win,japan,albania/poland/sweden/ukraine
+,2026-06-25,Group F,Tunisia,Netherlands,Gradient Boosting Regressor,1.541752901109927,0.741462604455838,2,1,2 - 1,team_a_win,tunisia,netherlands
+,2026-06-25,Group D,Kosovo/Romania/Slovakia/Türkiye,USA,Gradient Boosting Regressor,1.2221671630324007,0.9200617876243821,1,1,1 - 1,draw,kosovo/romania/slovakia/türkiye,united states
+,2026-06-25,Group D,Paraguay,Australia,Gradient Boosting Regressor,1.6275036086700834,0.7522538215651948,2,1,2 - 1,team_a_win,paraguay,australia
+,2026-06-26,Group I,Norway,France,Gradient Boosting Regressor,1.7839154247645252,0.8646849784761019,2,1,2 - 1,team_a_win,norway,france
+,2026-06-26,Group I,Senegal,Bolivia/Iraq/Suriname,Gradient Boosting Regressor,3.9007230206564207,0.0357447223052622,4,0,4 - 0,team_a_win,senegal,bolivia/iraq/suriname
+,2026-06-26,Group G,Egypt,IR Iran,Gradient Boosting Regressor,1.5364635349439952,0.7232154407828958,2,1,2 - 1,team_a_win,egypt,ir iran
+,2026-06-26,Group G,New Zealand,Belgium,Gradient Boosting Regressor,1.2849659642533693,0.9118989984832089,1,1,1 - 1,draw,new zealand,belgium
+,2026-06-26,Group H,Cabo Verde,Saudi Arabia,Gradient Boosting Regressor,1.9848890659465894,0.5148840790011249,2,1,2 - 1,team_a_win,cabo verde,saudi arabia
+,2026-06-26,Group H,Uruguay,Spain,Gradient Boosting Regressor,1.2592759522958499,0.8436979692122514,1,1,1 - 1,draw,uruguay,spain
+,2026-06-27,Group L,Panama,England,Gradient Boosting Regressor,1.2902317083121382,1.2023226740172364,1,1,1 - 1,draw,panama,england
+,2026-06-27,Group L,Croatia,Ghana,Gradient Boosting Regressor,2.0159571563555736,0.5175079631806895,2,1,2 - 1,team_a_win,croatia,ghana
+,2026-06-27,Group J,Algeria,Austria,Gradient Boosting Regressor,1.6206002859737139,0.7398923877736979,2,1,2 - 1,team_a_win,algeria,austria
+,2026-06-27,Group J,Jordan,Argentina,Gradient Boosting Regressor,1.409531350630932,0.829735278111124,1,1,1 - 1,draw,jordan,argentina
+,2026-06-27,Group K,Colombia,Portugal,Gradient Boosting Regressor,1.909531813347787,0.749898230472254,2,1,2 - 1,team_a_win,colombia,portugal
+,2026-06-27,Group K,Congo DR/Jamaica/New Caledonia,Uzbekistan,Gradient Boosting Regressor,1.241643694565621,0.6814506791814287,1,1,1 - 1,draw,congo dr/jamaica/new caledonia,uzbekistan
+,2026-06-11,Group A,Mexico,South Africa,XGBoost Regressor,1.8538907766342163,0.6980974078178406,2,1,2 - 1,team_a_win,mexico,south africa
+,2026-06-11,Group A,Korea Republic,Czechia/Denmark/North Macedonia/Republic of Ireland,XGBoost Regressor,5.358419418334961,0.2002231478691101,5,0,5 - 0,team_a_win,korea republic,czechia/denmark/north macedonia/republic of ireland
+,2026-06-12,Group B,Canada,Bosnia and Herzegovina/Italy/Northern Ireland/Wales,XGBoost Regressor,5.54481315612793,0.18825960159301758,6,0,6 - 0,team_a_win,canada,bosnia and herzegovina/italy/northern ireland/wales
+,2026-06-12,Group D,USA,Paraguay,XGBoost Regressor,1.7544431686401367,0.682009756565094,2,1,2 - 1,team_a_win,united states,paraguay
+,2026-06-13,Group C,Haiti,Scotland,XGBoost Regressor,1.6382851600646973,0.708774745464325,2,1,2 - 1,team_a_win,haiti,scotland
+,2026-06-13,Group D,Australia,Kosovo/Romania/Slovakia/Türkiye,XGBoost Regressor,5.6885151863098145,0.20555546879768372,6,0,6 - 0,team_a_win,australia,kosovo/romania/slovakia/türkiye
+,2026-06-13,Group C,Brazil,Morocco,XGBoost Regressor,1.9672441482543945,0.6692119240760803,2,1,2 - 1,team_a_win,brazil,morocco
+,2026-06-13,Group B,Qatar,Switzerland,XGBoost Regressor,1.4035929441452026,0.7028073072433472,1,1,1 - 1,draw,qatar,switzerland
+,2026-06-14,Group E,Côte d'Ivoire,Ecuador,XGBoost Regressor,1.7664299011230469,0.5056498050689697,2,1,2 - 1,team_a_win,côte d'ivoire,ecuador
+,2026-06-14,Group E,Germany,Curaçao,XGBoost Regressor,2.0752804279327393,0.5800856947898865,2,1,2 - 1,team_a_win,germany,curaçao
+,2026-06-14,Group F,Netherlands,Japan,XGBoost Regressor,2.080482244491577,0.760316789150238,2,1,2 - 1,team_a_win,netherlands,japan
+,2026-06-14,Group F,Albania/Poland/Sweden/Ukraine,Tunisia,XGBoost Regressor,1.382568359375,1.2884342670440674,1,1,1 - 1,draw,albania/poland/sweden/ukraine,tunisia
+,2026-06-15,Group H,Saudi Arabia,Uruguay,XGBoost Regressor,1.623062014579773,0.7194715738296509,2,1,2 - 1,team_a_win,saudi arabia,uruguay
+,2026-06-15,Group H,Spain,Cabo Verde,XGBoost Regressor,2.0172007083892822,0.6613613963127136,2,1,2 - 1,team_a_win,spain,cabo verde
+,2026-06-15,Group G,IR Iran,New Zealand,XGBoost Regressor,2.6210615634918213,0.3587381839752197,3,0,3 - 0,team_a_win,ir iran,new zealand
+,2026-06-15,Group G,Belgium,Egypt,XGBoost Regressor,1.8740745782852173,0.6597638726234436,2,1,2 - 1,team_a_win,belgium,egypt
+,2026-06-16,Group I,France,Senegal,XGBoost Regressor,1.8710614442825317,0.7169113159179688,2,1,2 - 1,team_a_win,france,senegal
+,2026-06-16,Group I,Bolivia/Iraq/Suriname,Norway,XGBoost Regressor,1.150239109992981,0.6347494721412659,1,1,1 - 1,draw,bolivia/iraq/suriname,norway
+,2026-06-16,Group J,Argentina,Algeria,XGBoost Regressor,2.2771449089050293,0.7176430225372314,2,1,2 - 1,team_a_win,argentina,algeria
+,2026-06-16,Group J,Austria,Jordan,XGBoost Regressor,2.288888931274414,0.5860024094581604,2,1,2 - 1,team_a_win,austria,jordan
+,2026-06-17,Group L,Ghana,Panama,XGBoost Regressor,1.6193962097167969,0.7379779815673828,2,1,2 - 1,team_a_win,ghana,panama
+,2026-06-17,Group L,England,Croatia,XGBoost Regressor,2.1283838748931885,0.5624914765357971,2,1,2 - 1,team_a_win,england,croatia
+,2026-06-17,Group K,Portugal,Congo DR/Jamaica/New Caledonia,XGBoost Regressor,5.235429763793945,0.21407313644886017,5,0,5 - 0,team_a_win,portugal,congo dr/jamaica/new caledonia
+,2026-06-17,Group K,Uzbekistan,Colombia,XGBoost Regressor,1.6648105382919312,0.7924621105194092,2,1,2 - 1,team_a_win,uzbekistan,colombia
+,2026-06-18,Group A,Czechia/Denmark/North Macedonia/Republic of Ireland,South Africa,XGBoost Regressor,1.33658766746521,1.2393708229064941,1,1,1 - 1,draw,czechia/denmark/north macedonia/republic of ireland,south africa
+,2026-06-18,Group B,Switzerland,Bosnia and Herzegovina/Italy/Northern Ireland/Wales,XGBoost Regressor,5.540013313293457,0.27195993065834045,6,0,6 - 0,team_a_win,switzerland,bosnia and herzegovina/italy/northern ireland/wales
+,2026-06-18,Group B,Canada,Qatar,XGBoost Regressor,1.93661367893219,0.43053486943244934,2,0,2 - 0,team_a_win,canada,qatar
+,2026-06-18,Group A,Mexico,Korea Republic,XGBoost Regressor,1.7755746841430664,0.670161247253418,2,1,2 - 1,team_a_win,mexico,korea republic
+,2026-06-19,Group C,Brazil,Haiti,XGBoost Regressor,2.389315605163574,0.63164883852005,2,1,2 - 1,team_a_win,brazil,haiti
+,2026-06-19,Group C,Scotland,Morocco,XGBoost Regressor,1.5450165271759033,0.8077591061592102,2,1,2 - 1,team_a_win,scotland,morocco
+,2026-06-19,Group D,Kosovo/Romania/Slovakia/Türkiye,Paraguay,XGBoost Regressor,1.37093985080719,1.2381216287612915,1,1,1 - 1,draw,kosovo/romania/slovakia/türkiye,paraguay
+,2026-06-19,Group D,USA,Australia,XGBoost Regressor,1.83550226688385,0.7575424313545227,2,1,2 - 1,team_a_win,united states,australia
+,2026-06-20,Group E,Germany,Côte d'Ivoire,XGBoost Regressor,1.8601874113082886,0.7592974305152893,2,1,2 - 1,team_a_win,germany,côte d'ivoire
+,2026-06-20,Group E,Ecuador,Curaçao,XGBoost Regressor,1.8659718036651611,0.6458548903465271,2,1,2 - 1,team_a_win,ecuador,curaçao
+,2026-06-20,Group F,Netherlands,Albania/Poland/Sweden/Ukraine,XGBoost Regressor,5.3419389724731445,0.2029305398464203,5,0,5 - 0,team_a_win,netherlands,albania/poland/sweden/ukraine
+,2026-06-20,Group F,Tunisia,Japan,XGBoost Regressor,1.465442180633545,0.8921995759010315,1,1,1 - 1,draw,tunisia,japan
+,2026-06-21,Group H,Uruguay,Cabo Verde,XGBoost Regressor,1.6199382543563843,0.7036532163619995,2,1,2 - 1,team_a_win,uruguay,cabo verde
+,2026-06-21,Group H,Spain,Saudi Arabia,XGBoost Regressor,2.626326322555542,0.5055922865867615,3,1,3 - 1,team_a_win,spain,saudi arabia
+,2026-06-21,Group G,Belgium,IR Iran,XGBoost Regressor,2.0981945991516113,0.6787394881248474,2,1,2 - 1,team_a_win,belgium,ir iran
+,2026-06-21,Group G,New Zealand,Egypt,XGBoost Regressor,1.3648000955581665,0.8538719415664673,1,1,1 - 1,draw,new zealand,egypt
+,2026-06-22,Group I,Norway,Senegal,XGBoost Regressor,1.8224174976348877,0.7958999872207642,2,1,2 - 1,team_a_win,norway,senegal
+,2026-06-22,Group I,France,Bolivia/Iraq/Suriname,XGBoost Regressor,5.781728267669678,0.20151552557945251,6,0,6 - 0,team_a_win,france,bolivia/iraq/suriname
+,2026-06-22,Group J,Argentina,Austria,XGBoost Regressor,1.877683401107788,0.7850368022918701,2,1,2 - 1,team_a_win,argentina,austria
+,2026-06-22,Group J,Jordan,Algeria,XGBoost Regressor,1.522131323814392,0.7971876263618469,2,1,2 - 1,team_a_win,jordan,algeria
+,2026-06-23,Group L,England,Ghana,XGBoost Regressor,2.530097007751465,0.6052805185317993,3,1,3 - 1,team_a_win,england,ghana
+,2026-06-23,Group L,Panama,Croatia,XGBoost Regressor,1.7039700746536255,0.7299271821975708,2,1,2 - 1,team_a_win,panama,croatia
+,2026-06-23,Group K,Portugal,Uzbekistan,XGBoost Regressor,2.099356174468994,0.5753703713417053,2,1,2 - 1,team_a_win,portugal,uzbekistan
+,2026-06-23,Group K,Colombia,Congo DR/Jamaica/New Caledonia,XGBoost Regressor,5.330708026885986,0.22212910652160645,5,0,5 - 0,team_a_win,colombia,congo dr/jamaica/new caledonia
+,2026-06-24,Group C,Scotland,Brazil,XGBoost Regressor,1.734959602355957,0.8413486480712891,2,1,2 - 1,team_a_win,scotland,brazil
+,2026-06-24,Group C,Morocco,Haiti,XGBoost Regressor,1.9380338191986084,0.6280374526977539,2,1,2 - 1,team_a_win,morocco,haiti
+,2026-06-24,Group B,Switzerland,Canada,XGBoost Regressor,1.7641135454177856,0.6935513615608215,2,1,2 - 1,team_a_win,switzerland,canada
+,2026-06-24,Group B,Bosnia and Herzegovina/Italy/Northern Ireland/Wales,Qatar,XGBoost Regressor,1.4047576189041138,0.47767671942710876,1,0,1 - 0,team_a_win,bosnia and herzegovina/italy/northern ireland/wales,qatar
+,2026-06-24,Group A,Czechia/Denmark/North Macedonia/Republic of Ireland,Mexico,XGBoost Regressor,1.1788175106048584,0.7561206817626953,1,1,1 - 1,draw,czechia/denmark/north macedonia/republic of ireland,mexico
+,2026-06-24,Group A,South Africa,Korea Republic,XGBoost Regressor,1.734620213508606,0.7134010195732117,2,1,2 - 1,team_a_win,south africa,korea republic
+,2026-06-25,Group E,Curaçao,Côte d'Ivoire,XGBoost Regressor,1.6623258590698242,0.6958099007606506,2,1,2 - 1,team_a_win,curaçao,côte d'ivoire
+,2026-06-25,Group E,Ecuador,Germany,XGBoost Regressor,1.3409316539764404,1.0103037357330322,1,1,1 - 1,draw,ecuador,germany
+,2026-06-25,Group F,Japan,Albania/Poland/Sweden/Ukraine,XGBoost Regressor,4.761571884155273,0.15436463057994843,5,0,5 - 0,team_a_win,japan,albania/poland/sweden/ukraine
+,2026-06-25,Group F,Tunisia,Netherlands,XGBoost Regressor,1.546979308128357,0.758975625038147,2,1,2 - 1,team_a_win,tunisia,netherlands
+,2026-06-25,Group D,Kosovo/Romania/Slovakia/Türkiye,USA,XGBoost Regressor,1.3948173522949219,1.185354471206665,1,1,1 - 1,draw,kosovo/romania/slovakia/türkiye,united states
+,2026-06-25,Group D,Paraguay,Australia,XGBoost Regressor,1.6447829008102417,0.7298421859741211,2,1,2 - 1,team_a_win,paraguay,australia
+,2026-06-26,Group I,Norway,France,XGBoost Regressor,1.8340681791305542,0.8655177354812622,2,1,2 - 1,team_a_win,norway,france
+,2026-06-26,Group I,Senegal,Bolivia/Iraq/Suriname,XGBoost Regressor,4.650024890899658,0.13820825517177582,5,0,5 - 0,team_a_win,senegal,bolivia/iraq/suriname
+,2026-06-26,Group G,Egypt,IR Iran,XGBoost Regressor,1.5322242975234985,0.7408968806266785,2,1,2 - 1,team_a_win,egypt,ir iran
+,2026-06-26,Group G,New Zealand,Belgium,XGBoost Regressor,1.2280060052871704,0.8066952228546143,1,1,1 - 1,draw,new zealand,belgium
+,2026-06-26,Group H,Cabo Verde,Saudi Arabia,XGBoost Regressor,2.009732246398926,0.5008676052093506,2,1,2 - 1,team_a_win,cabo verde,saudi arabia
+,2026-06-26,Group H,Uruguay,Spain,XGBoost Regressor,1.24371337890625,0.8977308869361877,1,1,1 - 1,draw,uruguay,spain
+,2026-06-27,Group L,Panama,England,XGBoost Regressor,1.3270680904388428,1.4441736936569214,1,1,1 - 1,draw,panama,england
+,2026-06-27,Group L,Croatia,Ghana,XGBoost Regressor,2.05603289604187,0.4917810261249542,2,0,2 - 0,team_a_win,croatia,ghana
+,2026-06-27,Group J,Algeria,Austria,XGBoost Regressor,1.7054362297058105,0.7844361066818237,2,1,2 - 1,team_a_win,algeria,austria
+,2026-06-27,Group J,Jordan,Argentina,XGBoost Regressor,1.4718997478485107,1.0296465158462524,1,1,1 - 1,draw,jordan,argentina
+,2026-06-27,Group K,Colombia,Portugal,XGBoost Regressor,1.9292452335357666,0.7702471613883972,2,1,2 - 1,team_a_win,colombia,portugal
+,2026-06-27,Group K,Congo DR/Jamaica/New Caledonia,Uzbekistan,XGBoost Regressor,1.3953040838241577,0.7601136565208435,1,1,1 - 1,draw,congo dr/jamaica/new caledonia,uzbekistan
+,2026-06-11,Group A,Mexico,South Africa,LightGBM Regressor,2.0413315234869964,0.5157731330187365,2,1,2 - 1,team_a_win,mexico,south africa
+,2026-06-11,Group A,Korea Republic,Czechia/Denmark/North Macedonia/Republic of Ireland,LightGBM Regressor,5.031167502447155,0.04052132583931936,5,0,5 - 0,team_a_win,korea republic,czechia/denmark/north macedonia/republic of ireland
+,2026-06-12,Group B,Canada,Bosnia and Herzegovina/Italy/Northern Ireland/Wales,LightGBM Regressor,5.335907089151008,0.30453035051063493,5,0,5 - 0,team_a_win,canada,bosnia and herzegovina/italy/northern ireland/wales
+,2026-06-12,Group D,USA,Paraguay,LightGBM Regressor,1.6479081183905517,0.7039786172120621,2,1,2 - 1,team_a_win,united states,paraguay
+,2026-06-13,Group C,Haiti,Scotland,LightGBM Regressor,1.6702770345293292,0.6659756281454828,2,1,2 - 1,team_a_win,haiti,scotland
+,2026-06-13,Group D,Australia,Kosovo/Romania/Slovakia/Türkiye,LightGBM Regressor,6.251154344019793,0.05418147033090452,6,0,6 - 0,team_a_win,australia,kosovo/romania/slovakia/türkiye
+,2026-06-13,Group C,Brazil,Morocco,LightGBM Regressor,2.4205939871393,0.5495783030908867,2,1,2 - 1,team_a_win,brazil,morocco
+,2026-06-13,Group B,Qatar,Switzerland,LightGBM Regressor,1.4461679130682603,0.7672327395418833,1,1,1 - 1,draw,qatar,switzerland
+,2026-06-14,Group E,Côte d'Ivoire,Ecuador,LightGBM Regressor,1.876976289722188,0.6250542615792809,2,1,2 - 1,team_a_win,côte d'ivoire,ecuador
+,2026-06-14,Group E,Germany,Curaçao,LightGBM Regressor,2.2709236810443474,0.49778136808954343,2,0,2 - 0,team_a_win,germany,curaçao
+,2026-06-14,Group F,Netherlands,Japan,LightGBM Regressor,2.1640052225710456,1.0343470464335947,2,1,2 - 1,team_a_win,netherlands,japan
+,2026-06-14,Group F,Albania/Poland/Sweden/Ukraine,Tunisia,LightGBM Regressor,0.8784501873375429,1.073778238725575,1,1,1 - 1,draw,albania/poland/sweden/ukraine,tunisia
+,2026-06-15,Group H,Saudi Arabia,Uruguay,LightGBM Regressor,1.6237816697769867,0.8250351727803649,2,1,2 - 1,team_a_win,saudi arabia,uruguay
+,2026-06-15,Group H,Spain,Cabo Verde,LightGBM Regressor,2.153912641263569,0.6617011864573124,2,1,2 - 1,team_a_win,spain,cabo verde
+,2026-06-15,Group G,IR Iran,New Zealand,LightGBM Regressor,2.409966222157067,0.3614677430574678,2,0,2 - 0,team_a_win,ir iran,new zealand
+,2026-06-15,Group G,Belgium,Egypt,LightGBM Regressor,2.3804521928533133,0.3970862190446408,2,0,2 - 0,team_a_win,belgium,egypt
+,2026-06-16,Group I,France,Senegal,LightGBM Regressor,1.7033041334541814,0.9436252197061347,2,1,2 - 1,team_a_win,france,senegal
+,2026-06-16,Group I,Bolivia/Iraq/Suriname,Norway,LightGBM Regressor,1.1194420898297193,0.8040256432380117,1,1,1 - 1,draw,bolivia/iraq/suriname,norway
+,2026-06-16,Group J,Argentina,Algeria,LightGBM Regressor,2.6217247907085643,0.7991321246148886,3,1,3 - 1,team_a_win,argentina,algeria
+,2026-06-16,Group J,Austria,Jordan,LightGBM Regressor,2.5470937665264883,0.42352187350009585,3,0,3 - 0,team_a_win,austria,jordan
+,2026-06-17,Group L,Ghana,Panama,LightGBM Regressor,1.6326251315780955,0.7030312388401723,2,1,2 - 1,team_a_win,ghana,panama
+,2026-06-17,Group L,England,Croatia,LightGBM Regressor,1.9305965531379565,0.589853855366513,2,1,2 - 1,team_a_win,england,croatia
+,2026-06-17,Group K,Portugal,Congo DR/Jamaica/New Caledonia,LightGBM Regressor,5.503660829343084,0.0959457735653216,6,0,6 - 0,team_a_win,portugal,congo dr/jamaica/new caledonia
+,2026-06-17,Group K,Uzbekistan,Colombia,LightGBM Regressor,2.067142061436164,0.9980046625278634,2,1,2 - 1,team_a_win,uzbekistan,colombia
+,2026-06-18,Group A,Czechia/Denmark/North Macedonia/Republic of Ireland,South Africa,LightGBM Regressor,0.99472139768119,1.0704025482314752,1,1,1 - 1,draw,czechia/denmark/north macedonia/republic of ireland,south africa
+,2026-06-18,Group B,Switzerland,Bosnia and Herzegovina/Italy/Northern Ireland/Wales,LightGBM Regressor,5.7102543566499495,0.18628162062918366,6,0,6 - 0,team_a_win,switzerland,bosnia and herzegovina/italy/northern ireland/wales
+,2026-06-18,Group B,Canada,Qatar,LightGBM Regressor,1.9272833470755963,0.48079029293043285,2,0,2 - 0,team_a_win,canada,qatar
+,2026-06-18,Group A,Mexico,Korea Republic,LightGBM Regressor,1.8089721159709184,0.7671410794111594,2,1,2 - 1,team_a_win,mexico,korea republic
+,2026-06-19,Group C,Brazil,Haiti,LightGBM Regressor,2.762343863882919,0.667887783427479,3,1,3 - 1,team_a_win,brazil,haiti
+,2026-06-19,Group C,Scotland,Morocco,LightGBM Regressor,1.6852028127858596,0.7132913648848468,2,1,2 - 1,team_a_win,scotland,morocco
+,2026-06-19,Group D,Kosovo/Romania/Slovakia/Türkiye,Paraguay,LightGBM Regressor,1.2948718642118566,0.9888411725089016,1,1,1 - 1,draw,kosovo/romania/slovakia/türkiye,paraguay
+,2026-06-19,Group D,USA,Australia,LightGBM Regressor,1.676232475563049,0.8468365905975189,2,1,2 - 1,team_a_win,united states,australia
+,2026-06-20,Group E,Germany,Côte d'Ivoire,LightGBM Regressor,1.8445073247045976,0.7150198444532826,2,1,2 - 1,team_a_win,germany,côte d'ivoire
+,2026-06-20,Group E,Ecuador,Curaçao,LightGBM Regressor,1.9654169943923545,0.581455240605634,2,1,2 - 1,team_a_win,ecuador,curaçao
+,2026-06-20,Group F,Netherlands,Albania/Poland/Sweden/Ukraine,LightGBM Regressor,5.67773364803406,0.1943102605059358,6,0,6 - 0,team_a_win,netherlands,albania/poland/sweden/ukraine
+,2026-06-20,Group F,Tunisia,Japan,LightGBM Regressor,1.6878900888161636,1.0311397762908447,2,1,2 - 1,team_a_win,tunisia,japan
+,2026-06-21,Group H,Uruguay,Cabo Verde,LightGBM Regressor,1.6641221300858362,0.6276844705126258,2,1,2 - 1,team_a_win,uruguay,cabo verde
+,2026-06-21,Group H,Spain,Saudi Arabia,LightGBM Regressor,2.2059827010278856,0.627259708739402,2,1,2 - 1,team_a_win,spain,saudi arabia
+,2026-06-21,Group G,Belgium,IR Iran,LightGBM Regressor,2.0571209560836423,0.7427321794529596,2,1,2 - 1,team_a_win,belgium,ir iran
+,2026-06-21,Group G,New Zealand,Egypt,LightGBM Regressor,1.410322963259192,1.0674593864788193,1,1,1 - 1,draw,new zealand,egypt
+,2026-06-22,Group I,Norway,Senegal,LightGBM Regressor,1.952264435585712,0.7275298639872857,2,1,2 - 1,team_a_win,norway,senegal
+,2026-06-22,Group I,France,Bolivia/Iraq/Suriname,LightGBM Regressor,5.735542998350262,0.09279485532301805,6,0,6 - 0,team_a_win,france,bolivia/iraq/suriname
+,2026-06-22,Group J,Argentina,Austria,LightGBM Regressor,2.104488181422402,0.37702009707817635,2,0,2 - 0,team_a_win,argentina,austria
+,2026-06-22,Group J,Jordan,Algeria,LightGBM Regressor,1.5563674957025613,0.7664733715036374,2,1,2 - 1,team_a_win,jordan,algeria
+,2026-06-23,Group L,England,Ghana,LightGBM Regressor,3.1418394872653157,0.559637046982557,3,1,3 - 1,team_a_win,england,ghana
+,2026-06-23,Group L,Panama,Croatia,LightGBM Regressor,1.6793574598131653,0.5541687831222547,2,1,2 - 1,team_a_win,panama,croatia
+,2026-06-23,Group K,Portugal,Uzbekistan,LightGBM Regressor,2.304682205760738,0.5841114104654797,2,1,2 - 1,team_a_win,portugal,uzbekistan
+,2026-06-23,Group K,Colombia,Congo DR/Jamaica/New Caledonia,LightGBM Regressor,5.863536604323514,0.06241267761213756,6,0,6 - 0,team_a_win,colombia,congo dr/jamaica/new caledonia
+,2026-06-24,Group C,Scotland,Brazil,LightGBM Regressor,2.048112102396952,0.8642537912962703,2,1,2 - 1,team_a_win,scotland,brazil
+,2026-06-24,Group C,Morocco,Haiti,LightGBM Regressor,2.3015073942076816,0.6356450786770407,2,1,2 - 1,team_a_win,morocco,haiti
+,2026-06-24,Group B,Switzerland,Canada,LightGBM Regressor,1.8500656161285474,0.645430788091796,2,1,2 - 1,team_a_win,switzerland,canada
+,2026-06-24,Group B,Bosnia and Herzegovina/Italy/Northern Ireland/Wales,Qatar,LightGBM Regressor,1.2129457447840097,0.4457738734598394,1,0,1 - 0,team_a_win,bosnia and herzegovina/italy/northern ireland/wales,qatar
+,2026-06-24,Group A,Czechia/Denmark/North Macedonia/Republic of Ireland,Mexico,LightGBM Regressor,1.0645805668586759,0.8223407654906589,1,1,1 - 1,draw,czechia/denmark/north macedonia/republic of ireland,mexico
+,2026-06-24,Group A,South Africa,Korea Republic,LightGBM Regressor,1.7906389682493198,0.6503996315791508,2,1,2 - 1,team_a_win,south africa,korea republic
+,2026-06-25,Group E,Curaçao,Côte d'Ivoire,LightGBM Regressor,1.7128803495167197,0.6625227570391463,2,1,2 - 1,team_a_win,curaçao,côte d'ivoire
+,2026-06-25,Group E,Ecuador,Germany,LightGBM Regressor,1.3056516449913942,0.6557872397002037,1,1,1 - 1,draw,ecuador,germany
+,2026-06-25,Group F,Japan,Albania/Poland/Sweden/Ukraine,LightGBM Regressor,3.717557172896572,0.07497900610913673,4,0,4 - 0,team_a_win,japan,albania/poland/sweden/ukraine
+,2026-06-25,Group F,Tunisia,Netherlands,LightGBM Regressor,1.569319541392129,0.7104998331599256,2,1,2 - 1,team_a_win,tunisia,netherlands
+,2026-06-25,Group D,Kosovo/Romania/Slovakia/Türkiye,USA,LightGBM Regressor,1.0356350130918692,1.0590672402119634,1,1,1 - 1,draw,kosovo/romania/slovakia/türkiye,united states
+,2026-06-25,Group D,Paraguay,Australia,LightGBM Regressor,1.6954907163355633,0.6215815815955477,2,1,2 - 1,team_a_win,paraguay,australia
+,2026-06-26,Group I,Norway,France,LightGBM Regressor,2.587421881303977,0.8485073873605767,3,1,3 - 1,team_a_win,norway,france
+,2026-06-26,Group I,Senegal,Bolivia/Iraq/Suriname,LightGBM Regressor,4.447154563496011,0.009884563661780357,4,0,4 - 0,team_a_win,senegal,bolivia/iraq/suriname
+,2026-06-26,Group G,Egypt,IR Iran,LightGBM Regressor,1.7422564833023457,0.7358382765401875,2,1,2 - 1,team_a_win,egypt,ir iran
+,2026-06-26,Group G,New Zealand,Belgium,LightGBM Regressor,1.2111144968877599,0.5173779535384095,1,1,1 - 1,draw,new zealand,belgium
+,2026-06-26,Group H,Cabo Verde,Saudi Arabia,LightGBM Regressor,1.3843215133495217,0.48695032636661517,1,0,1 - 0,team_a_win,cabo verde,saudi arabia
+,2026-06-26,Group H,Uruguay,Spain,LightGBM Regressor,1.428652635694564,0.8979142713887966,1,1,1 - 1,draw,uruguay,spain
+,2026-06-27,Group L,Panama,England,LightGBM Regressor,1.6631704373522973,1.2208884870441783,2,1,2 - 1,team_a_win,panama,england
+,2026-06-27,Group L,Croatia,Ghana,LightGBM Regressor,2.1726733163378236,0.46888678066382333,2,0,2 - 0,team_a_win,croatia,ghana
+,2026-06-27,Group J,Algeria,Austria,LightGBM Regressor,1.7869702338592446,0.4282552043257843,2,0,2 - 0,team_a_win,algeria,austria
+,2026-06-27,Group J,Jordan,Argentina,LightGBM Regressor,1.6772943118494275,1.046059973467201,2,1,2 - 1,team_a_win,jordan,argentina
+,2026-06-27,Group K,Colombia,Portugal,LightGBM Regressor,2.3598894877616643,0.3906073731183658,2,0,2 - 0,team_a_win,colombia,portugal
+,2026-06-27,Group K,Congo DR/Jamaica/New Caledonia,Uzbekistan,LightGBM Regressor,1.0888082060279562,0.6994788701868473,1,1,1 - 1,draw,congo dr/jamaica/new caledonia,uzbekistan

@@ -1,0 +1,16 @@
+date,team_a,team_b,tournament,team_a_goals,team_b_goals,result,best_model,pred_team_a_goals,pred_team_b_goals,pred_team_a_goals_rounded,pred_team_b_goals_rounded,predicted_score,actual_score,absolute_goal_error
+2023-11-18,France,Gibraltar,European Championship qual,14,0,team_a_win,Gradient Boosting Regressor,5.791778084289806,0.19217125656734874,6,0,6 - 0,14 - 0,8.400393172277543
+2025-09-09,Norway,Moldova,World Cup qualifier,11,1,team_a_win,Gradient Boosting Regressor,3.4733455015833052,0.367318090125864,3,0,3 - 0,11 - 1,8.159336408290832
+2025-09-09,Venezuela,Colombia,World Cup qualifier,3,6,team_b_win,Gradient Boosting Regressor,0.9137767461986246,1.100090839927235,1,1,1 - 1,3 - 6,6.98613241387414
+2025-11-16,Portugal,Armenia,World Cup qualifier,9,1,team_a_win,Gradient Boosting Regressor,3.1085762511686728,0.3168515426764793,3,0,3 - 0,9 - 1,6.574572206154848
+2025-06-05,Spain,France,European Nations League,5,4,team_a_win,Gradient Boosting Regressor,1.860112743040778,0.6536689126723717,2,1,2 - 1,5 - 4,6.486218344286851
+2025-11-13,Bermuda,Curaçao,World Cup qualifier,0,7,team_b_win,Gradient Boosting Regressor,0.7923888615591841,1.6341134584769306,1,2,1 - 2,0 - 7,6.1582754030822535
+2023-09-07,Norway,Jordan,Friendly,6,0,team_a_win,Gradient Boosting Regressor,1.2343777337734656,1.2500314581984457,1,1,1 - 1,6 - 0,6.015653724424981
+2023-11-17,Côte d'Ivoire,Seychelles,World Cup qualifier,9,0,team_a_win,Gradient Boosting Regressor,3.544740594365786,0.3682277223808329,4,0,4 - 0,9 - 0,5.823487128015047
+2024-09-05,Japan,China,World Cup qualifier,7,0,team_a_win,Gradient Boosting Regressor,1.6503977404488657,0.4559525251939173,2,0,2 - 0,7 - 0,5.805554784745052
+2023-09-11,Portugal,Luxembourg,European Championship qual,9,0,team_a_win,Gradient Boosting Regressor,4.289536777359659,1.0651334923569904,4,1,4 - 1,9 - 0,5.775596714997331
+2024-01-22,Côte d'Ivoire,Equatorial Guinea,African Nations Cup,0,4,team_b_win,Gradient Boosting Regressor,2.2052433246694587,0.48956964584443563,2,0,2 - 0,0 - 4,5.7156736788250235
+2023-10-17,Curaçao,Trinidad and Tobago,CONCACAF Nations League A,5,3,team_a_win,Gradient Boosting Regressor,1.6070288469120235,0.7292950574128526,2,1,2 - 1,5 - 3,5.6636760956751235
+2025-11-18,Senegal,Kenya,Friendly,8,0,team_a_win,Gradient Boosting Regressor,2.8036672218166685,0.43254292266650674,3,0,3 - 0,8 - 0,5.628875700849838
+2023-09-08,Georgia,Spain,European Championship qual,1,7,team_b_win,Gradient Boosting Regressor,0.747339592969936,1.6805831042645674,1,2,1 - 2,1 - 7,5.572077302765496
+2022-11-21,England,IR Iran,World Cup,6,2,team_a_win,Gradient Boosting Regressor,1.8405732685845553,0.672482410446654,2,1,2 - 1,6 - 2,5.4869443209687905

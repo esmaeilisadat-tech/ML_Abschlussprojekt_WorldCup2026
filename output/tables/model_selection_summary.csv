@@ -1,0 +1,4 @@
+task,selected_model
+match_result_classification,Logistic Regression
+team_a_goal_regression,Ridge Regression
+team_b_goal_regression,Ridge Regression

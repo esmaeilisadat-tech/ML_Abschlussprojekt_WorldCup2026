@@ -1,0 +1,33 @@
+group,team,played,wins,draws,losses,goals_for,goals_against,goal_difference,points,group_rank,qualification_type,third_place_rank
+Group A,Mexico,3,3,0,0,6,1,5,9,1,top2,
+Group A,South Africa,3,1,1,1,4,4,0,4,2,top2,
+Group A,Korea Republic,3,1,0,2,6,4,2,3,3,best_third,5.0
+Group B,Switzerland,3,2,1,0,8,2,6,7,1,top2,
+Group B,Canada,3,2,0,1,8,2,6,6,2,top2,
+Group C,Brazil,3,2,0,1,6,3,3,6,1,top2,
+Group C,Morocco,3,1,1,1,4,3,1,4,2,top2,
+Group C,Scotland,3,1,1,1,4,4,0,4,3,best_third,1.0
+Group D,USA,3,2,1,0,5,3,2,7,1,top2,
+Group D,Paraguay,3,1,1,1,4,4,0,4,2,top2,
+Group D,Australia,3,1,0,2,7,4,3,3,3,best_third,3.0
+Group E,Germany,3,2,1,0,5,3,2,7,1,top2,
+Group E,Ecuador,3,1,1,1,4,4,0,4,2,top2,
+Group E,Curaçao,3,1,0,2,4,5,-1,3,3,best_third,8.0
+Group F,Netherlands,3,2,1,0,8,2,6,7,1,top2,
+Group F,Japan,3,1,1,1,7,3,4,4,2,top2,
+Group F,Tunisia,3,0,3,0,3,3,0,3,3,best_third,7.0
+Group G,Belgium,3,2,1,0,5,3,2,7,1,top2,
+Group G,IR Iran,3,1,1,1,5,3,2,4,2,top2,
+Group H,Spain,3,2,1,0,6,2,4,7,1,top2,
+Group H,Uruguay,3,1,1,1,4,4,0,4,2,top2,
+Group I,Norway,3,3,0,0,6,2,4,9,1,top2,
+Group I,France,3,2,0,1,8,3,5,6,2,top2,
+Group I,Senegal,3,1,0,2,7,4,3,3,3,best_third,4.0
+Group J,Argentina,3,2,1,0,5,3,2,7,1,top2,
+Group J,Algeria,3,1,1,1,4,4,0,4,2,top2,
+Group J,Austria,3,1,0,2,5,4,1,3,3,best_third,6.0
+Group K,Portugal,3,2,0,1,8,3,5,6,1,top2,
+Group K,Colombia,3,2,0,1,8,3,5,6,2,top2,
+Group K,Uzbekistan,3,1,1,1,4,4,0,4,3,best_third,2.0
+Group L,England,3,3,0,0,6,1,5,9,1,top2,
+Group L,Panama,3,1,0,2,4,5,-1,3,2,top2,

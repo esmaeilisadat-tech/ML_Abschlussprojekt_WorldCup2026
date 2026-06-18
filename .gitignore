@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env/
+.conda/
+env.bak/
+venv.bak/
+
+# Agent/Scratch files
+.gemini/
+scratch/
+*.html
+
+# IDE / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Any large temp files
+*.log
+*.sqlite

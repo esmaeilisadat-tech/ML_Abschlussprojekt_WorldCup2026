@@ -1,0 +1,105 @@
+match_no,date,stage,group,team_a,team_b,team_a_clean,team_b_clean,h2h_matches,team_a_h2h_wins,draws,team_b_h2h_wins,team_a_h2h_goals,team_b_h2h_goals,team_a_avg_h2h_goals,team_b_avg_h2h_goals
+Match 1,2026-06-11,,Group A,Mexico,South Africa,Mexico,South Africa,4,2,1,1,10,5,2.5,1.25
+Match 2,2026-06-11,,Group A,Korea Republic,Czechia/Denmark/North Macedonia/Republic of Ireland,Korea Republic,Czechia/Denmark/North Macedonia/Republic of Ireland,0,0,0,0,0,0,0.0,0.0
+Match 3,2026-06-12,,Group B,Canada,Bosnia and Herzegovina/Italy/Northern Ireland/Wales,Canada,Bosnia and Herzegovina/Italy/Northern Ireland/Wales,0,0,0,0,0,0,0.0,0.0
+Match 4,2026-06-12,,Group D,USA,Paraguay,USA,Paraguay,9,5,2,2,12,7,1.3333333333333333,0.7777777777777778
+Match 5,2026-06-13,,Group C,Haiti,Scotland,Haiti,Scotland,0,0,0,0,0,0,0.0,0.0
+Match 6,2026-06-13,,Group D,Australia,Kosovo/Romania/Slovakia/Türkiye,Australia,Kosovo/Romania/Slovakia/Türkiye,0,0,0,0,0,0,0.0,0.0
+Match 7,2026-06-13,,Group C,Brazil,Morocco,Brazil,Morocco,3,2,0,1,6,2,2.0,0.6666666666666666
+Match 8,2026-06-13,,Group B,Qatar,Switzerland,Qatar,Switzerland,1,1,0,0,1,0,1.0,0.0
+Match 9,2026-06-14,,Group E,Côte d'Ivoire,Ecuador,Côte d'Ivoire,Ecuador,0,0,0,0,0,0,0.0,0.0
+Match 10,2026-06-14,,Group E,Germany,Curaçao,Germany,Curaçao,0,0,0,0,0,0,0.0,0.0
+Match 11,2026-06-14,,Group F,Netherlands,Japan,Netherlands,Japan,3,2,1,0,6,2,2.0,0.6666666666666666
+Match 12,2026-06-14,,Group F,Albania/Poland/Sweden/Ukraine,Tunisia,Albania/Poland/Sweden/Ukraine,Tunisia,0,0,0,0,0,0,0.0,0.0
+Match 13,2026-06-15,,Group H,Saudi Arabia,Uruguay,Saudi Arabia,Uruguay,3,1,1,1,4,4,1.3333333333333333,1.3333333333333333
+Match 14,2026-06-15,,Group H,Spain,Cabo Verde,Spain,Cabo Verde,0,0,0,0,0,0,0.0,0.0
+Match 15,2026-06-15,,Group G,IR Iran,New Zealand,IR Iran,New Zealand,2,1,1,0,3,0,1.5,0.0
+Match 16,2026-06-15,,Group G,Belgium,Egypt,Belgium,Egypt,4,1,0,3,4,7,1.0,1.75
+Match 17,2026-06-16,,Group I,France,Senegal,France,Senegal,1,0,0,1,0,1,0.0,1.0
+Match 18,2026-06-16,,Group I,Bolivia/Iraq/Suriname,Norway,Bolivia/Iraq/Suriname,Norway,0,0,0,0,0,0,0.0,0.0
+Match 19,2026-06-16,,Group J,Argentina,Algeria,Argentina,Algeria,1,1,0,0,4,3,4.0,3.0
+Match 20,2026-06-16,,Group J,Austria,Jordan,Austria,Jordan,0,0,0,0,0,0,0.0,0.0
+Match 21,2026-06-17,,Group L,Ghana,Panama,Ghana,Panama,0,0,0,0,0,0,0.0,0.0
+Match 22,2026-06-17,,Group L,England,Croatia,England,Croatia,11,6,2,3,22,13,2.0,1.1818181818181819
+Match 23,2026-06-17,,Group K,Portugal,Congo DR/Jamaica/New Caledonia,Portugal,Congo DR/Jamaica/New Caledonia,0,0,0,0,0,0,0.0,0.0
+Match 24,2026-06-17,,Group K,Uzbekistan,Colombia,Uzbekistan,Colombia,0,0,0,0,0,0,0.0,0.0
+Match 25,2026-06-18,,Group A,Czechia/Denmark/North Macedonia/Republic of Ireland,South Africa,Czechia/Denmark/North Macedonia/Republic of Ireland,South Africa,0,0,0,0,0,0,0.0,0.0
+Match 26,2026-06-18,,Group B,Switzerland,Bosnia and Herzegovina/Italy/Northern Ireland/Wales,Switzerland,Bosnia and Herzegovina/Italy/Northern Ireland/Wales,0,0,0,0,0,0,0.0,0.0
+Match 27,2026-06-18,,Group B,Canada,Qatar,Canada,Qatar,1,1,0,0,2,0,2.0,0.0
+Match 28,2026-06-18,,Group A,Mexico,Korea Republic,Mexico,Korea Republic,15,8,3,4,31,20,2.066666666666667,1.3333333333333333
+Match 29,2026-06-19,,Group C,Brazil,Haiti,Brazil,Haiti,3,3,0,0,17,1,5.666666666666667,0.3333333333333333
+Match 30,2026-06-19,,Group C,Scotland,Morocco,Scotland,Morocco,1,0,0,1,0,3,0.0,3.0
+Match 31,2026-06-19,,Group D,Kosovo/Romania/Slovakia/Türkiye,Paraguay,Kosovo/Romania/Slovakia/Türkiye,Paraguay,0,0,0,0,0,0,0.0,0.0
+Match 32,2026-06-19,,Group D,USA,Australia,USA,Australia,4,2,1,1,5,3,1.25,0.75
+Match 33,2026-06-20,,Group E,Germany,Côte d'Ivoire,Germany,Côte d'Ivoire,1,0,1,0,2,2,2.0,2.0
+Match 34,2026-06-20,,Group E,Ecuador,Curaçao,Ecuador,Curaçao,0,0,0,0,0,0,0.0,0.0
+Match 35,2026-06-20,,Group F,Netherlands,Albania/Poland/Sweden/Ukraine,Netherlands,Albania/Poland/Sweden/Ukraine,0,0,0,0,0,0,0.0,0.0
+Match 36,2026-06-20,,Group F,Tunisia,Japan,Tunisia,Japan,6,1,0,5,3,8,0.5,1.3333333333333333
+Match 37,2026-06-21,,Group H,Uruguay,Cabo Verde,Uruguay,Cabo Verde,0,0,0,0,0,0,0.0,0.0
+Match 38,2026-06-21,,Group H,Spain,Saudi Arabia,Spain,Saudi Arabia,3,3,0,0,9,2,3.0,0.6666666666666666
+Match 39,2026-06-21,,Group G,Belgium,IR Iran,Belgium,IR Iran,0,0,0,0,0,0,0.0,0.0
+Match 40,2026-06-21,,Group G,New Zealand,Egypt,New Zealand,Egypt,3,0,1,2,1,3,0.3333333333333333,1.0
+Match 41,2026-06-22,,Group I,Norway,Senegal,Norway,Senegal,1,0,0,1,1,2,1.0,2.0
+Match 42,2026-06-22,,Group I,France,Bolivia/Iraq/Suriname,France,Bolivia/Iraq/Suriname,0,0,0,0,0,0,0.0,0.0
+Match 43,2026-06-22,,Group J,Argentina,Austria,Argentina,Austria,2,1,1,0,6,2,3.0,1.0
+Match 44,2026-06-22,,Group J,Jordan,Algeria,Jordan,Algeria,2,0,1,1,1,7,0.5,3.5
+Match 45,2026-06-23,,Group L,England,Ghana,England,Ghana,1,0,1,0,1,1,1.0,1.0
+Match 46,2026-06-23,,Group L,Panama,Croatia,Panama,Croatia,0,0,0,0,0,0,0.0,0.0
+Match 47,2026-06-23,,Group K,Portugal,Uzbekistan,Portugal,Uzbekistan,0,0,0,0,0,0,0.0,0.0
+Match 48,2026-06-23,,Group K,Colombia,Congo DR/Jamaica/New Caledonia,Colombia,Congo DR/Jamaica/New Caledonia,0,0,0,0,0,0,0.0,0.0
+Match 49,2026-06-24,,Group C,Scotland,Brazil,Scotland,Brazil,10,0,2,8,3,16,0.3,1.6
+Match 50,2026-06-24,,Group C,Morocco,Haiti,Morocco,Haiti,0,0,0,0,0,0,0.0,0.0
+Match 51,2026-06-24,,Group B,Switzerland,Canada,Switzerland,Canada,1,0,0,1,1,3,1.0,3.0
+Match 52,2026-06-24,,Group B,Bosnia and Herzegovina/Italy/Northern Ireland/Wales,Qatar,Bosnia and Herzegovina/Italy/Northern Ireland/Wales,Qatar,0,0,0,0,0,0,0.0,0.0
+Match 53,2026-06-24,,Group A,Czechia/Denmark/North Macedonia/Republic of Ireland,Mexico,Czechia/Denmark/North Macedonia/Republic of Ireland,Mexico,0,0,0,0,0,0,0.0,0.0
+Match 54,2026-06-24,,Group A,South Africa,Korea Republic,South Africa,Korea Republic,0,0,0,0,0,0,0.0,0.0
+Match 55,2026-06-25,,Group E,Curaçao,Côte d'Ivoire,Curaçao,Côte d'Ivoire,0,0,0,0,0,0,0.0,0.0
+Match 56,2026-06-25,,Group E,Ecuador,Germany,Ecuador,Germany,2,0,0,2,2,7,1.0,3.5
+Match 57,2026-06-25,,Group F,Japan,Albania/Poland/Sweden/Ukraine,Japan,Albania/Poland/Sweden/Ukraine,0,0,0,0,0,0,0.0,0.0
+Match 58,2026-06-25,,Group F,Tunisia,Netherlands,Tunisia,Netherlands,3,0,2,1,3,7,1.0,2.3333333333333335
+Match 59,2026-06-25,,Group D,Kosovo/Romania/Slovakia/Türkiye,USA,Kosovo/Romania/Slovakia/Türkiye,USA,0,0,0,0,0,0,0.0,0.0
+Match 60,2026-06-25,,Group D,Paraguay,Australia,Paraguay,Australia,5,0,3,2,2,4,0.4,0.8
+Match 61,2026-06-26,,Group I,Norway,France,Norway,France,16,5,4,7,22,22,1.375,1.375
+Match 62,2026-06-26,,Group I,Senegal,Bolivia/Iraq/Suriname,Senegal,Bolivia/Iraq/Suriname,0,0,0,0,0,0,0.0,0.0
+Match 63,2026-06-26,,Group G,Egypt,IR Iran,Egypt,IR Iran,1,0,1,0,1,1,1.0,1.0
+Match 64,2026-06-26,,Group G,New Zealand,Belgium,New Zealand,Belgium,0,0,0,0,0,0,0.0,0.0
+Match 65,2026-06-26,,Group H,Cabo Verde,Saudi Arabia,Cabo Verde,Saudi Arabia,0,0,0,0,0,0,0.0,0.0
+Match 66,2026-06-26,,Group H,Uruguay,Spain,Uruguay,Spain,10,0,5,5,8,16,0.8,1.6
+Match 67,2026-06-27,,Group L,Panama,England,Panama,England,1,0,0,1,1,6,1.0,6.0
+Match 68,2026-06-27,,Group L,Croatia,Ghana,Croatia,Ghana,0,0,0,0,0,0,0.0,0.0
+Match 69,2026-06-27,,Group J,Algeria,Austria,Algeria,Austria,1,0,0,1,0,2,0.0,2.0
+Match 70,2026-06-27,,Group J,Jordan,Argentina,Jordan,Argentina,0,0,0,0,0,0,0.0,0.0
+Match 71,2026-06-27,,Group K,Colombia,Portugal,Colombia,Portugal,0,0,0,0,0,0,0.0,0.0
+Match 72,2026-06-27,,Group K,Congo DR/Jamaica/New Caledonia,Uzbekistan,Congo DR/Jamaica/New Caledonia,Uzbekistan,0,0,0,0,0,0,0.0,0.0
+Match 73,2026-06-28,,,Group A runners-up,Group B runners-up,Group A runners-up,Group B runners-up,0,0,0,0,0,0,0.0,0.0
+Match 74,2026-06-29,,,Group E winners,Group A/B/C/D/F third place,Group E winners,Group A/B/C/D/F third place,0,0,0,0,0,0,0.0,0.0
+Match 75,2026-06-29,,,Group F winners,Group C runners-up,Group F winners,Group C runners-up,0,0,0,0,0,0,0.0,0.0
+Match 76,2026-06-29,,,Group C winners,Group F runners-up,Group C winners,Group F runners-up,0,0,0,0,0,0,0.0,0.0
+Match 77,2026-06-30,,,Group I winners,Group C/D/F/G/H third place,Group I winners,Group C/D/F/G/H third place,0,0,0,0,0,0,0.0,0.0
+Match 78,2026-06-30,,,Group E runners up,Group I runners-up,Group E runners up,Group I runners-up,0,0,0,0,0,0,0.0,0.0
+Match 79,2026-06-30,,,Group A winners,Group C/E/F/H/I third place,Group A winners,Group C/E/F/H/I third place,0,0,0,0,0,0,0.0,0.0
+Match 80,2026-07-01,,,Group L winners,Group E/H/I/J/K third place,Group L winners,Group E/H/I/J/K third place,0,0,0,0,0,0,0.0,0.0
+Match 81,2026-07-01,,,Group D winners,Group B/E/F/I/J third place,Group D winners,Group B/E/F/I/J third place,0,0,0,0,0,0,0.0,0.0
+Match 82,2026-07-01,,,Group G winners,Group A/E/H/I/J third place,Group G winners,Group A/E/H/I/J third place,0,0,0,0,0,0,0.0,0.0
+Match 83,2026-07-02,,,Group K runners-up,Group L runners-up,Group K runners-up,Group L runners-up,0,0,0,0,0,0,0.0,0.0
+Match 84,2026-07-02,,,Group H winners,Group J runners-up,Group H winners,Group J runners-up,0,0,0,0,0,0,0.0,0.0
+Match 85,2026-07-02,,,Group B winners,Group E/F/G/I/J third place,Group B winners,Group E/F/G/I/J third place,0,0,0,0,0,0,0.0,0.0
+Match 86,2026-07-03,,,Group J winners,Group H runners-up,Group J winners,Group H runners-up,0,0,0,0,0,0,0.0,0.0
+Match 87,2026-07-03,,,Group K winners,Group D/E/I/J/L third place,Group K winners,Group D/E/I/J/L third place,0,0,0,0,0,0,0.0,0.0
+Match 88,2026-07-03,,,Group D runners-up,Group G runners-up,Group D runners-up,Group G runners-up,0,0,0,0,0,0,0.0,0.0
+Match 89,2026-07-04,,,Winner match 74,Winner match 77,Winner match 74,Winner match 77,0,0,0,0,0,0,0.0,0.0
+Match 90,2026-07-04,,,Winner match 73,Winner match 75,Winner match 73,Winner match 75,0,0,0,0,0,0,0.0,0.0
+Match 91,2026-07-05,,,Winner match 76,Winner match 78,Winner match 76,Winner match 78,0,0,0,0,0,0,0.0,0.0
+Match 92,2026-07-05,,,Winner match 79,Winner match 80,Winner match 79,Winner match 80,0,0,0,0,0,0,0.0,0.0
+Match 93,2026-07-06,,,Winner match 83,Winner match 84,Winner match 83,Winner match 84,0,0,0,0,0,0,0.0,0.0
+Match 94,2026-07-06,,,Winner match 81,Winner match 82,Winner match 81,Winner match 82,0,0,0,0,0,0,0.0,0.0
+Match 95,2026-07-07,,,Winner match 86,Winner match 88,Winner match 86,Winner match 88,0,0,0,0,0,0,0.0,0.0
+Match 96,2026-07-07,,,Winner match 85,Winner match 87,Winner match 85,Winner match 87,0,0,0,0,0,0,0.0,0.0
+Match 97,2026-07-09,,,Winner match 89,Winner match 90,Winner match 89,Winner match 90,0,0,0,0,0,0,0.0,0.0
+Match 98,2026-07-10,,,Winner match 93,Winner match 94,Winner match 93,Winner match 94,0,0,0,0,0,0,0.0,0.0
+Match 99,2026-07-11,,,Winner match 91,Winner match 92,Winner match 91,Winner match 92,0,0,0,0,0,0,0.0,0.0
+Match 100,2026-07-11,,,Winner match 95,Winner match 96,Winner match 95,Winner match 96,0,0,0,0,0,0,0.0,0.0
+Match 101,2026-07-14,,,Winner match 97,Winner match 98,Winner match 97,Winner match 98,0,0,0,0,0,0,0.0,0.0
+Match 102,2026-07-15,,,Winner match 99,Winner match 100,Winner match 99,Winner match 100,0,0,0,0,0,0,0.0,0.0
+Match 103,2026-07-18,,,Runner-up match 101,Runner-up match 102,Runner-up match 101,Runner-up match 102,0,0,0,0,0,0,0.0,0.0
+Match 104,2026-07-19,,,Winner match 101,Winner match 102,Winner match 101,Winner match 102,0,0,0,0,0,0,0.0,0.0

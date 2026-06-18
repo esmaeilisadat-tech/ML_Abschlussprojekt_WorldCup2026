@@ -1,0 +1,88 @@
+feature,importance
+numeric__avg_goal_diff_diff_last10,0.15613015
+numeric__team_b_avg_goals_conceded_last10,0.052788254
+numeric__team_b_avg_goal_diff_last10,0.04752328
+numeric__team_b_matches_last10,0.03178279
+numeric__team_b_h2h_win_rate,0.03142466
+numeric__points_per_match_diff_last10,0.029479127
+numeric__team_b_matches_last5,0.027778327
+numeric__win_rate_diff_last10,0.027260095
+numeric__team_a_h2h_win_rate,0.024510588
+numeric__team_b_points_per_match_last10,0.023074215
+numeric__avg_goals_conceded_diff_last10,0.02221516
+categorical__tournament_World Cup and Asian Cup qual,0.02082786
+numeric__neutral,0.020460729
+numeric__avg_goals_scored_diff_last10,0.017309759
+numeric__h2h_draw_rate,0.017214863
+numeric__team_a_h2h_avg_goals,0.017000197
+categorical__tournament_CONCACAF Nations League q,0.01684247
+numeric__team_a_points_per_match_last5,0.016304841
+numeric__team_a_avg_goals_scored_last10,0.016059496
+numeric__team_b_h2h_avg_goals,0.014898196
+categorical__tournament_European Championship qual,0.014430626
+numeric__team_a_loss_rate_last10,0.014371884
+numeric__team_b_loss_rate_last10,0.01353166
+numeric__team_b_points_per_match_last5,0.013257994
+numeric__team_b_loss_rate_last5,0.012896746
+categorical__tournament_World Cup qualifier,0.012470609
+categorical__tournament_CONCACAF Championship,0.01236288
+numeric__team_a_avg_goal_diff_last10,0.0115376795
+numeric__team_a_points_per_match_last10,0.011348938
+numeric__h2h_matches,0.011166946
+categorical__tournament_CONCACAF Ch & Car Ch q,0.010414143
+numeric__team_b_avg_goals_scored_last10,0.010367374
+categorical__tournament_Friendly,0.010278477
+numeric__team_a_draw_rate_last5,0.009688931
+categorical__tournament_European Nations League A,0.009656278
+numeric__team_a_avg_goals_conceded_last10,0.0095289815
+numeric__team_a_loss_rate_last5,0.009139191
+categorical__tournament_African Nations Cup,0.009077174
+categorical__tournament_Copa America,0.008738249
+categorical__tournament_Confederations Cup,0.008623698
+numeric__team_a_draw_rate_last10,0.008528353
+numeric__team_b_draw_rate_last10,0.00833757
+numeric__team_a_win_rate_last5,0.007840664
+categorical__tournament_European Championship,0.0076065375
+categorical__tournament_Asian Cup qualifier,0.007457364
+numeric__team_b_draw_rate_last5,0.0070644896
+categorical__tournament_Arab Cup,0.006783628
+categorical__tournament_African Nations Cup qualifier,0.0066431207
+categorical__tournament_COSAFA Cup,0.006332488
+categorical__tournament_West Asian Championship,0.0062840153
+categorical__tournament_East Asian Championship,0.006069925
+numeric__team_b_win_rate_last10,0.005884814
+numeric__team_b_win_rate_last5,0.0057328385
+categorical__tournament_Friendly tournament,0.005710459
+numeric__team_a_win_rate_last10,0.005194505
+categorical__tournament_CONCACAF Champ qual,0.004966746
+categorical__tournament_CONCACAF Nations League A,0.004441996
+categorical__tournament_Asian Cup,0.004280782
+categorical__tournament_CONCACAF Ch q & C Am Cup,0.004067791
+categorical__tournament_European Nations League B,0.0039932136
+categorical__tournament_CECAFA Cup,0.0036367995
+numeric__team_a_matches_last5,0.0036361073
+categorical__tournament_CONCACAF Nations League B,0.0035754107
+categorical__tournament_European Nations League,0.003449625
+categorical__tournament_CONCACAF Ch q & Car Ch PO,0.0030733491
+categorical__tournament_UNCAF Nations Cup,0.003023927
+categorical__tournament_Afro-Asian Cup,0.002609867
+numeric__team_a_matches_last10,0.0
+categorical__tournament_CONCACAF Cup,0.0
+categorical__tournament_CONCACAF Ch q & Car Ch,0.0
+categorical__tournament_Amilcar Cabral Cup,0.0
+categorical__tournament_CONCACAF Nations League,0.0
+categorical__tournament_Copa Paz del Chaco,0.0
+categorical__tournament_Central American Cup,0.0
+categorical__tournament_Copa America qualifier,0.0
+categorical__tournament_Caribbean Championship,0.0
+categorical__tournament_East Asian Championship qual,0.0
+categorical__tournament_European Nations League C,0.0
+categorical__tournament_Gulf Cup,0.0
+categorical__tournament_Oceania Nations Cup,0.0
+categorical__tournament_N Am Ch q & UNCAF Cup,0.0
+categorical__tournament_King's Cup,0.0
+categorical__tournament_Intercontinental Champ,0.0
+categorical__tournament_WC q and Oce Cup,0.0
+categorical__tournament_Pan Arab Games,0.0
+categorical__tournament_World Cup and African Cup qual,0.0
+categorical__tournament_World Cup,0.0

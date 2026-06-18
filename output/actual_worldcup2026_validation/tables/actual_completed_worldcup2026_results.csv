@@ -1,0 +1,13 @@
+match_number,team_a,team_b,actual_team_a_goals,actual_team_b_goals,actual_result,actual_score,join_team_a,join_team_b,completed_match_key
+1,Mexico,South Africa,2,0,team_a_win,2 - 0,mexico,south africa,mexico vs south africa
+2,Korea Republic,Czechia/Denmark/North Macedonia/Republic of Ireland,2,1,team_a_win,2 - 1,korea republic,czechia/denmark/north macedonia/republic of ireland,korea republic vs czechia/denmark/north macedonia/republic of ireland
+3,Canada,Bosnia and Herzegovina/Italy/Northern Ireland/Wales,1,1,draw,1 - 1,canada,bosnia and herzegovina/italy/northern ireland/wales,canada vs bosnia and herzegovina/italy/northern ireland/wales
+4,USA,Paraguay,4,1,team_a_win,4 - 1,united states,paraguay,united states vs paraguay
+5,Haiti,Scotland,0,1,team_b_win,0 - 1,haiti,scotland,haiti vs scotland
+6,Australia,Kosovo/Romania/Slovakia/Türkiye,2,0,team_a_win,2 - 0,australia,kosovo/romania/slovakia/türkiye,australia vs kosovo/romania/slovakia/türkiye
+7,Brazil,Morocco,1,1,draw,1 - 1,brazil,morocco,brazil vs morocco
+8,Qatar,Switzerland,1,1,draw,1 - 1,qatar,switzerland,qatar vs switzerland
+9,Côte d'Ivoire,Ecuador,1,0,team_a_win,1 - 0,côte d'ivoire,ecuador,côte d'ivoire vs ecuador
+10,Germany,Curaçao,7,1,team_a_win,7 - 1,germany,curaçao,germany vs curaçao
+11,Netherlands,Japan,2,2,draw,2 - 2,netherlands,japan,netherlands vs japan
+12,Albania/Poland/Sweden/Ukraine,Tunisia,5,1,team_a_win,5 - 1,albania/poland/sweden/ukraine,tunisia,albania/poland/sweden/ukraine vs tunisia

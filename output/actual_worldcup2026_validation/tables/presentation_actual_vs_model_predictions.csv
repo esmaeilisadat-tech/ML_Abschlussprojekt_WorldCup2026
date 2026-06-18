@@ -1,0 +1,85 @@
+match_number,group,team_a,team_b,model,actual_score,predicted_score,actual_result,predicted_result,outcome_correct,exact_score_correct,total_abs_goal_error
+,Group A,Mexico,South Africa,Dummy Mean Baseline,2 - 0,2 - 1,team_a_win,team_a_win,True,False,1.117375
+,Group A,Korea Republic,Czechia/Denmark/North Macedonia/Republic of Ireland,Dummy Mean Baseline,2 - 1,2 - 1,team_a_win,team_a_win,True,True,0.33162499999999995
+,Group B,Canada,Bosnia and Herzegovina/Italy/Northern Ireland/Wales,Dummy Mean Baseline,1 - 1,2 - 1,draw,team_a_win,False,False,0.8826250000000001
+,Group D,USA,Paraguay,Dummy Mean Baseline,4 - 1,2 - 1,team_a_win,team_a_win,True,False,2.331625
+,Group C,Haiti,Scotland,Dummy Mean Baseline,0 - 1,2 - 1,team_b_win,team_a_win,False,False,1.882625
+,Group D,Australia,Kosovo/Romania/Slovakia/Türkiye,Dummy Mean Baseline,2 - 0,2 - 1,team_a_win,team_a_win,True,False,1.117375
+,Group C,Brazil,Morocco,Dummy Mean Baseline,1 - 1,2 - 1,draw,team_a_win,False,False,0.8826250000000001
+,Group B,Qatar,Switzerland,Dummy Mean Baseline,1 - 1,2 - 1,draw,team_a_win,False,False,0.8826250000000001
+,Group E,Côte d'Ivoire,Ecuador,Dummy Mean Baseline,1 - 0,2 - 1,team_a_win,team_a_win,True,False,1.6683750000000002
+,Group E,Germany,Curaçao,Dummy Mean Baseline,7 - 1,2 - 1,team_a_win,team_a_win,True,False,5.331625
+,Group F,Netherlands,Japan,Dummy Mean Baseline,2 - 2,2 - 1,draw,team_a_win,False,False,1.3316249999999998
+,Group F,Albania/Poland/Sweden/Ukraine,Tunisia,Dummy Mean Baseline,5 - 1,2 - 1,team_a_win,team_a_win,True,False,3.331625
+,Group A,Mexico,South Africa,Gradient Boosting Regressor,2 - 0,2 - 1,team_a_win,team_a_win,True,False,0.789689585899298
+,Group A,Korea Republic,Czechia/Denmark/North Macedonia/Republic of Ireland,Gradient Boosting Regressor,2 - 1,5 - 0,team_a_win,team_a_win,True,False,4.125042369021631
+,Group B,Canada,Bosnia and Herzegovina/Italy/Northern Ireland/Wales,Gradient Boosting Regressor,1 - 1,5 - 0,draw,team_a_win,False,False,5.1147673145188985
+,Group D,USA,Paraguay,Gradient Boosting Regressor,4 - 1,2 - 1,team_a_win,team_a_win,True,False,2.6021010521991546
+,Group C,Haiti,Scotland,Gradient Boosting Regressor,0 - 1,2 - 1,team_b_win,team_a_win,False,False,1.8779416245016884
+,Group D,Australia,Kosovo/Romania/Slovakia/Türkiye,Gradient Boosting Regressor,2 - 0,5 - 0,team_a_win,team_a_win,True,False,3.194789636935222
+,Group C,Brazil,Morocco,Gradient Boosting Regressor,1 - 1,2 - 1,draw,team_a_win,False,False,1.2772867823400071
+,Group B,Qatar,Switzerland,Gradient Boosting Regressor,1 - 1,1 - 1,draw,draw,True,True,0.732489830995006
+,Group E,Côte d'Ivoire,Ecuador,Gradient Boosting Regressor,1 - 0,2 - 1,team_a_win,team_a_win,True,False,1.3177503330195397
+,Group E,Germany,Curaçao,Gradient Boosting Regressor,7 - 1,2 - 1,team_a_win,team_a_win,True,False,5.281497553539755
+,Group F,Netherlands,Japan,Gradient Boosting Regressor,2 - 2,2 - 1,draw,team_a_win,False,False,1.4009268217214494
+,Group F,Albania/Poland/Sweden/Ukraine,Tunisia,Gradient Boosting Regressor,5 - 1,1 - 1,team_a_win,draw,False,False,3.722580317523888
+,Group A,Mexico,South Africa,LightGBM Regressor,2 - 0,2 - 1,team_a_win,team_a_win,True,False,0.5571046565057329
+,Group A,Korea Republic,Czechia/Denmark/North Macedonia/Republic of Ireland,LightGBM Regressor,2 - 1,5 - 0,team_a_win,team_a_win,True,False,3.990646176607836
+,Group B,Canada,Bosnia and Herzegovina/Italy/Northern Ireland/Wales,LightGBM Regressor,1 - 1,5 - 0,draw,team_a_win,False,False,5.031376738640374
+,Group D,USA,Paraguay,LightGBM Regressor,4 - 1,2 - 1,team_a_win,team_a_win,True,False,2.648113264397386
+,Group C,Haiti,Scotland,LightGBM Regressor,0 - 1,2 - 1,team_b_win,team_a_win,False,False,2.0043014063838465
+,Group D,Australia,Kosovo/Romania/Slovakia/Türkiye,LightGBM Regressor,2 - 0,6 - 0,team_a_win,team_a_win,True,False,4.3053358143506975
+,Group C,Brazil,Morocco,LightGBM Regressor,1 - 1,2 - 1,draw,team_a_win,False,False,1.8710156840484131
+,Group B,Qatar,Switzerland,LightGBM Regressor,1 - 1,1 - 1,draw,draw,True,True,0.678935173526377
+,Group E,Côte d'Ivoire,Ecuador,LightGBM Regressor,1 - 0,2 - 1,team_a_win,team_a_win,True,False,1.502030551301469
+,Group E,Germany,Curaçao,LightGBM Regressor,7 - 1,2 - 0,team_a_win,team_a_win,True,False,5.231294950866109
+,Group F,Netherlands,Japan,LightGBM Regressor,2 - 2,2 - 1,draw,team_a_win,False,False,1.129658176137451
+,Group F,Albania/Poland/Sweden/Ukraine,Tunisia,LightGBM Regressor,5 - 1,1 - 1,team_a_win,draw,False,False,4.195328051388032
+,Group A,Mexico,South Africa,Poisson Regression,2 - 0,2 - 1,team_a_win,team_a_win,True,False,0.7400358122038561
+,Group A,Korea Republic,Czechia/Denmark/North Macedonia/Republic of Ireland,Poisson Regression,2 - 1,4 - 0,team_a_win,team_a_win,True,False,2.855987626704919
+,Group B,Canada,Bosnia and Herzegovina/Italy/Northern Ireland/Wales,Poisson Regression,1 - 1,4 - 0,draw,team_a_win,False,False,3.8775099871572976
+,Group D,USA,Paraguay,Poisson Regression,4 - 1,2 - 1,team_a_win,team_a_win,True,False,2.6558694613501133
+,Group C,Haiti,Scotland,Poisson Regression,0 - 1,2 - 1,team_b_win,team_a_win,False,False,1.9884040178359148
+,Group D,Australia,Kosovo/Romania/Slovakia/Türkiye,Poisson Regression,2 - 0,4 - 0,team_a_win,team_a_win,True,False,2.296114696819302
+,Group C,Brazil,Morocco,Poisson Regression,1 - 1,2 - 1,draw,team_a_win,False,False,0.9542728970794447
+,Group B,Qatar,Switzerland,Poisson Regression,1 - 1,1 - 1,draw,draw,True,True,0.5807125973192262
+,Group E,Côte d'Ivoire,Ecuador,Poisson Regression,1 - 0,2 - 1,team_a_win,team_a_win,True,False,1.4201286177832833
+,Group E,Germany,Curaçao,Poisson Regression,7 - 1,2 - 1,team_a_win,team_a_win,True,False,5.052018205032464
+,Group F,Netherlands,Japan,Poisson Regression,2 - 2,2 - 1,draw,team_a_win,False,False,1.4925480947539391
+,Group F,Albania/Poland/Sweden/Ukraine,Tunisia,Poisson Regression,5 - 1,1 - 1,team_a_win,draw,False,False,3.9459365218135414
+,Group A,Mexico,South Africa,Random Forest Regressor,2 - 0,2 - 1,team_a_win,team_a_win,True,False,0.6251217355363282
+,Group A,Korea Republic,Czechia/Denmark/North Macedonia/Republic of Ireland,Random Forest Regressor,2 - 1,6 - 0,team_a_win,team_a_win,True,False,4.436437918121231
+,Group B,Canada,Bosnia and Herzegovina/Italy/Northern Ireland/Wales,Random Forest Regressor,1 - 1,5 - 0,draw,team_a_win,False,False,4.82109679641902
+,Group D,USA,Paraguay,Random Forest Regressor,4 - 1,2 - 1,team_a_win,team_a_win,True,False,2.8971854937768295
+,Group C,Haiti,Scotland,Random Forest Regressor,0 - 1,2 - 1,team_b_win,team_a_win,False,False,2.0833832218850334
+,Group D,Australia,Kosovo/Romania/Slovakia/Türkiye,Random Forest Regressor,2 - 0,5 - 0,team_a_win,team_a_win,True,False,3.637511379064759
+,Group C,Brazil,Morocco,Random Forest Regressor,1 - 1,2 - 1,draw,team_a_win,False,False,1.34647122175056
+,Group B,Qatar,Switzerland,Random Forest Regressor,1 - 1,2 - 1,draw,team_a_win,False,False,0.8532652410988236
+,Group E,Côte d'Ivoire,Ecuador,Random Forest Regressor,1 - 0,2 - 1,team_a_win,team_a_win,True,False,1.5163178529547507
+,Group E,Germany,Curaçao,Random Forest Regressor,7 - 1,2 - 1,team_a_win,team_a_win,True,False,5.0726739574968525
+,Group F,Netherlands,Japan,Random Forest Regressor,2 - 2,2 - 1,draw,team_a_win,False,False,1.4979131234356544
+,Group F,Albania/Poland/Sweden/Ukraine,Tunisia,Random Forest Regressor,5 - 1,1 - 1,team_a_win,draw,False,False,3.7824266144057686
+,Group A,Mexico,South Africa,Ridge Regression,2 - 0,2 - 1,team_a_win,team_a_win,True,False,0.6081315154264979
+,Group A,Korea Republic,Czechia/Denmark/North Macedonia/Republic of Ireland,Ridge Regression,2 - 1,5 - 0,team_a_win,team_a_win,True,False,4.269701508761562
+,Group B,Canada,Bosnia and Herzegovina/Italy/Northern Ireland/Wales,Ridge Regression,1 - 1,5 - 0,draw,team_a_win,False,False,5.163963279494846
+,Group D,USA,Paraguay,Ridge Regression,4 - 1,2 - 1,team_a_win,team_a_win,True,False,2.376321560114411
+,Group C,Haiti,Scotland,Ridge Regression,0 - 1,2 - 1,team_b_win,team_a_win,False,False,1.9715641828823176
+,Group D,Australia,Kosovo/Romania/Slovakia/Türkiye,Ridge Regression,2 - 0,5 - 0,team_a_win,team_a_win,True,False,3.185958903932738
+,Group C,Brazil,Morocco,Ridge Regression,1 - 1,2 - 1,draw,team_a_win,False,False,1.005738369157595
+,Group B,Qatar,Switzerland,Ridge Regression,1 - 1,1 - 1,draw,draw,True,True,0.4505672339303449
+,Group E,Côte d'Ivoire,Ecuador,Ridge Regression,1 - 0,2 - 1,team_a_win,team_a_win,True,False,1.4810413455791902
+,Group E,Germany,Curaçao,Ridge Regression,7 - 1,2 - 1,team_a_win,team_a_win,True,False,4.931615779747787
+,Group F,Netherlands,Japan,Ridge Regression,2 - 2,2 - 1,draw,team_a_win,False,False,1.3817679726001582
+,Group F,Albania/Poland/Sweden/Ukraine,Tunisia,Ridge Regression,5 - 1,1 - 1,team_a_win,draw,False,False,4.5836651251027405
+,Group A,Mexico,South Africa,XGBoost Regressor,2 - 0,2 - 1,team_a_win,team_a_win,True,False,0.8442066311836243
+,Group A,Korea Republic,Czechia/Denmark/North Macedonia/Republic of Ireland,XGBoost Regressor,2 - 1,5 - 0,team_a_win,team_a_win,True,False,4.158196270465851
+,Group B,Canada,Bosnia and Herzegovina/Italy/Northern Ireland/Wales,XGBoost Regressor,1 - 1,6 - 0,draw,team_a_win,False,False,5.356553554534912
+,Group D,USA,Paraguay,XGBoost Regressor,4 - 1,2 - 1,team_a_win,team_a_win,True,False,2.5635470747947693
+,Group C,Haiti,Scotland,XGBoost Regressor,0 - 1,2 - 1,team_b_win,team_a_win,False,False,1.9295104146003723
+,Group D,Australia,Kosovo/Romania/Slovakia/Türkiye,XGBoost Regressor,2 - 0,6 - 0,team_a_win,team_a_win,True,False,3.894070655107498
+,Group C,Brazil,Morocco,XGBoost Regressor,1 - 1,2 - 1,draw,team_a_win,False,False,1.2980322241783142
+,Group B,Qatar,Switzerland,XGBoost Regressor,1 - 1,1 - 1,draw,draw,True,True,0.7007856369018555
+,Group E,Côte d'Ivoire,Ecuador,XGBoost Regressor,1 - 0,2 - 1,team_a_win,team_a_win,True,False,1.2720797061920166
+,Group E,Germany,Curaçao,XGBoost Regressor,7 - 1,2 - 1,team_a_win,team_a_win,True,False,5.344633877277374
+,Group F,Netherlands,Japan,XGBoost Regressor,2 - 2,2 - 1,draw,team_a_win,False,False,1.3201654553413391
+,Group F,Albania/Poland/Sweden/Ukraine,Tunisia,XGBoost Regressor,5 - 1,1 - 1,team_a_win,draw,False,False,3.9058659076690674

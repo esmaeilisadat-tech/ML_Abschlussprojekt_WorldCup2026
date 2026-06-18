@@ -1,0 +1,4 @@
+model,accuracy,weighted_f1
+Logistic Regression,0.624375,0.6218579522097342
+Random Forest Classifier,0.640625,0.6143400187077941
+Dummy Majority Baseline,0.581875,0.4280724022125642
