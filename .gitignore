@@ -26,3 +26,11 @@ Thumbs.db
 # Any large temp files
 *.log
 *.sqlite
+
+# Extra useless files
+notebooks/
+print_final_pdf.bat
+report/
+split_data.py
+test_pandas.py
+Mathematical_Analysis_and_Notebook_Explanation.md
