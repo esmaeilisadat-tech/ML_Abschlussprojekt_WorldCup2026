@@ -255,36 +255,33 @@ elif page == _("بررسی مدل (ارزیابی فنی)"):
             
             st.markdown(_('<hr><div class="sub-header">پراکندگی گل‌های واقعی در برابر پیش‌بینی‌شده (Scatter Plot)</div>'), unsafe_allow_html=True)
             st.write(_("نقاط روی نمودار پیش‌بینی‌های مدل را نشان می‌دهند. خط‌چین قرمز خط ایده‌آل (دقت ۱۰۰٪) است."))
-            try:
-                test_preds = pd.read_csv(OUTPUT_DIR / "regression_model_comparison_presentation" / "tables" / "best_model_test_predictions.csv")
-                c_scat1, c_scat2 = st.columns(2)
-                with c_scat1:
-                    max_val_a = max(test_preds['team_a_goals'].max(), test_preds['pred_team_a_goals'].max())
-                    fig_scat_a = px.scatter(test_preds, x='team_a_goals', y='pred_team_a_goals', opacity=0.6, 
-                                            title=_("تیم میزبان (الف)"), 
-                                            labels={'team_a_goals': _('گل واقعی'), 'pred_team_a_goals': _('گل پیش‌بینی شده')})
-                    fig_scat_a.update_traces(marker=dict(line=dict(color='#2c3e50', width=1.5)), opacity=0.85)
-                    fig_scat_a.add_shape(type="line", x0=0, y0=0, x1=max_val_a, y1=max_val_a, line=dict(color="red", dash="dash"))
-                    st.plotly_chart(fig_scat_a, use_container_width=True)
-                    
-                with c_scat2:
-                    max_val_b = max(test_preds['team_b_goals'].max(), test_preds['pred_team_b_goals'].max())
-                    fig_scat_b = px.scatter(test_preds, x='team_b_goals', y='pred_team_b_goals', opacity=0.6, 
-                                            title=_("تیم میهمان (ب)"), 
-                                            labels={'team_b_goals': _('گل واقعی'), 'pred_team_b_goals': _('گل پیش‌بینی شده')})
-                    fig_scat_b.update_traces(marker=dict(line=dict(color='#2c3e50', width=1.5)), opacity=0.85)
-                    fig_scat_b.add_shape(type="line", x0=0, y0=0, x1=max_val_b, y1=max_val_b, line=dict(color="red", dash="dash"))
-                    st.plotly_chart(fig_scat_b, use_container_width=True)
-                    
-                st.markdown(_('<hr><div class="sub-header">فضای سه‌بعدی پیش‌بینی‌ها (3D Scatter)</div>'), unsafe_allow_html=True)
-                st.write(_("این یک نمودار کاملاً سه‌بعدی است. می‌توانید با استفاده از موس آن را در فضا بچرخانید!"))
-                fig_3d = px.scatter_3d(test_preds, x='team_a_goals', y='team_b_goals', z='absolute_goal_error', 
-                                       color='absolute_goal_error', opacity=0.9, size_max=15,
-                                       title=_("نمای سه‌بعدی خطای مطلق بر اساس ترکیب گل‌های دو تیم"))
-                fig_3d.update_traces(marker=dict(line=dict(color='#2c3e50', width=2)))
-                st.plotly_chart(fig_3d, use_container_width=True)
-            except Exception:
-                st.warning(_("داده‌های پراکندگی گل‌ها یافت نشد."))
+            test_preds = pd.read_csv(OUTPUT_DIR / "regression_model_comparison_presentation" / "tables" / "best_model_test_predictions.csv")
+            c_scat1, c_scat2 = st.columns(2)
+            with c_scat1:
+                max_val_a = max(test_preds['team_a_goals'].max(), test_preds['pred_team_a_goals'].max())
+                fig_scat_a = px.scatter(test_preds, x='team_a_goals', y='pred_team_a_goals', opacity=0.6, 
+                                        title=_("تیم میزبان (الف)"), 
+                                        labels={'team_a_goals': _('گل واقعی'), 'pred_team_a_goals': _('گل پیش‌بینی شده')})
+                fig_scat_a.update_traces(marker=dict(line=dict(color='#2c3e50', width=1.5)), opacity=0.85)
+                fig_scat_a.add_shape(type="line", x0=0, y0=0, x1=max_val_a, y1=max_val_a, line=dict(color="red", dash="dash"))
+                st.plotly_chart(fig_scat_a, use_container_width=True)
+                
+            with c_scat2:
+                max_val_b = max(test_preds['team_b_goals'].max(), test_preds['pred_team_b_goals'].max())
+                fig_scat_b = px.scatter(test_preds, x='team_b_goals', y='pred_team_b_goals', opacity=0.6, 
+                                        title=_("تیم میهمان (ب)"), 
+                                        labels={'team_b_goals': _('گل واقعی'), 'pred_team_b_goals': _('گل پیش‌بینی شده')})
+                fig_scat_b.update_traces(marker=dict(line=dict(color='#2c3e50', width=1.5)), opacity=0.85)
+                fig_scat_b.add_shape(type="line", x0=0, y0=0, x1=max_val_b, y1=max_val_b, line=dict(color="red", dash="dash"))
+                st.plotly_chart(fig_scat_b, use_container_width=True)
+                
+            st.markdown(_('<hr><div class="sub-header">فضای سه‌بعدی پیش‌بینی‌ها (3D Scatter)</div>'), unsafe_allow_html=True)
+            st.write(_("این یک نمودار کاملاً سه‌بعدی است. می‌توانید با استفاده از موس آن را در فضا بچرخانید!"))
+            fig_3d = px.scatter_3d(test_preds, x='team_a_goals', y='team_b_goals', z='absolute_goal_error', 
+                                   color='absolute_goal_error', opacity=0.9, size_max=15,
+                                   title=_("نمای سه‌بعدی خطای مطلق بر اساس ترکیب گل‌های دو تیم"))
+            fig_3d.update_traces(marker=dict(line=dict(color='#2c3e50', width=2)))
+            st.plotly_chart(fig_3d, use_container_width=True)
             
         except Exception:
             st.warning(_("داده‌های مقایسه رگرسیون برای رسم نمودار تعاملی یافت نشد."))
@@ -311,13 +308,7 @@ elif page == _("بررسی مدل (ارزیابی فنی)"):
     with tab_feat:
         st.markdown(_('<div class="sub-header">ویژگی‌های کلیدی (Feature Importance)</div>'), unsafe_allow_html=True)
         st.write(_("ماشین لرنینگ یاد گرفته است که کدام پارامترها (مثل میانگین گل‌های بازی‌های اخیر، یا سابقه تقابل دو تیم) بیشترین وزن را در تعیین نتیجه بازی دارند."))
-        try:
-            st.image(str(OUTPUT_DIR / "regression_model_comparison_presentation" / "figures" / "15_best_model_feature_importance.png"), use_column_width=True)
-        except Exception:
-            try:
-                st.image(str(FIGURES_DIR / "rf_feature_importance_top20.png"), use_column_width=True)
-            except Exception:
-                st.warning(_("تصویر Feature Importance یافت نشد."))
+        st.image(str(OUTPUT_DIR / "regression_model_comparison_presentation" / "figures" / "15_best_model_feature_importance.png"), use_column_width=True)
 
 elif page == _("بررسی جام جهانی 2022 (دوره قبل)"):
     st.markdown(_('<div class="main-header">عملکرد مدل در جام جهانی ۲۰۲۲ قطر</div>'), unsafe_allow_html=True)
