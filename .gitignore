@@ -15,7 +15,8 @@ venv.bak/
 # Agent/Scratch files
 .gemini/
 scratch/
-*.html
+Mathematical_Analysis*.html
+# (Interactive HTML plots in output/ are allowed)
 
 # IDE / OS files
 .vscode/
