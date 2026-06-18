@@ -17,29 +17,6 @@ st.set_page_config(
     initial_sidebar_state="expanded"
 )
 
-import base64
-def add_bg_from_local(image_path):
-    try:
-        with open(image_path, "rb") as image_file:
-            encoded_string = base64.b64encode(image_file.read()).decode()
-        st.markdown(
-        f'''
-        <style>
-        .stApp {{
-            background: linear-gradient(rgba(14, 17, 23, 0.5), rgba(14, 17, 23, 0.5)), url("data:image/png;base64,{encoded_string}");
-            background-size: cover;
-            background-position: center;
-            background-attachment: fixed;
-        }}
-        </style>
-        ''',
-        unsafe_allow_html=True
-        )
-    except Exception:
-        pass
-
-bg_path = Path(__file__).parent / "soccer_bg.png"
-add_bg_from_local(bg_path)
 
 
 import importlib
