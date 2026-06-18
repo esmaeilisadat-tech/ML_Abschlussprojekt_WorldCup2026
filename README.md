@@ -6,6 +6,12 @@
 
 A comprehensive Data Science and Machine Learning project analyzing and predicting the outcomes of the **FIFA World Cup 2026**. This project features a fully interactive, tri-lingual (English, German, Persian) web dashboard built with Streamlit.
 
+
+
+## 🔴 Live Demo
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://mlabschlussprojektworldcup2026-nry5tgeappwr4jbmjnxtmjg.streamlit.app/)
+
+**Click the badge above to interact with the live Machine Learning Dashboard!**
 ## 🌟 Key Features
 * **🏆 Predictive Modeling**: Advanced Regression and Classification models (Random Forest, XGBoost, Poisson Regression) to predict exact match scores and winners.
 * **🧠 Unsupervised Learning**: Deep tactical analysis of teams using PCA, t-SNE, UMAP, and K-Means Clustering to group teams by playstyle and strength.
