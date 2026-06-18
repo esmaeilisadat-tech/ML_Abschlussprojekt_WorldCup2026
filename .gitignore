@@ -28,7 +28,6 @@ Thumbs.db
 *.sqlite
 
 # Extra useless files
-notebooks/
 print_final_pdf.bat
 report/
 split_data.py
