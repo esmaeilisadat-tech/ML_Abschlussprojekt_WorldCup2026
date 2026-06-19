@@ -19,6 +19,31 @@ st.set_page_config(
 
 
 
+import base64
+def add_bg_from_local(image_path):
+    try:
+        with open(image_path, "rb") as image_file:
+            encoded_string = base64.b64encode(image_file.read()).decode()
+        st.markdown(
+        f'''
+        <style>
+        .stApp {{
+            background-image: url("data:image/png;base64,{encoded_string}");
+            background-size: cover;
+            background-position: center;
+            background-attachment: fixed;
+            background-repeat: no-repeat;
+        }}
+        </style>
+        ''',
+        unsafe_allow_html=True
+        )
+    except Exception:
+        pass
+
+bg_path = Path(__file__).parent / "soccer_bg.png"
+add_bg_from_local(bg_path)
+
 import importlib
 import translations
 importlib.reload(translations)
