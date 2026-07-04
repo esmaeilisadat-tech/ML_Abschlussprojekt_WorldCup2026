@@ -481,6 +481,37 @@ elif page == _("پیش‌بینی کامل جام جهانی 2026"):
         else:
             st.warning(_("پیش‌بینی مراحل حذفی یافت نشد."))
 
+    with tab3:
+        st.markdown(_('<div class="sub-header">پیش‌بینی آپدیت‌شده از یک‌هشتم تا فینال (بر اساس صعودکنندگان واقعی)</div>'), unsafe_allow_html=True)
+        
+        st.write(_("""
+**مرحله یک‌هشتم نهایی (Round of 16):**
+* Canada **2 - 1** Morocco (برنده: **Canada**)
+* Paraguay **3 - 1** France (برنده: **Paraguay**)
+* Brazil **2 - 2** Norway (برنده: **Brazil**)
+* Mexico **2 - 0** England (برنده: **Mexico**)
+* Portugal **2 - 1** Spain (برنده: **Portugal**)
+* USA **1 - 2** Belgium (برنده: **Belgium**)
+* Argentina **2 - 0** Egypt (برنده: **Argentina**)
+* Switzerland **2 - 1** Colombia (برنده: **Switzerland**)
+
+**مرحله یک‌چهارم نهایی (Quarter-finals):**
+* Canada **2 - 1** Paraguay (برنده: **Canada**)
+* Brazil **2 - 1** Mexico (برنده: **Brazil**)
+* Portugal **3 - 1** Belgium (برنده: **Portugal**)
+* Argentina **2 - 0** Switzerland (برنده: **Argentina**)
+
+**مرحله نیمه‌نهایی (Semi-finals):**
+* Canada **2 - 1** Brazil (برنده: **Canada**)
+* Portugal **3 - 1** Argentina (برنده: **Portugal**)
+
+**رده‌بندی (Third-place):**
+* Brazil **2 - 1** Argentina (مقام سوم: **Brazil**)
+
+**فینال (Final):**
+* Canada **2 - 1** Portugal (🏆 قهرمان جام جهانی ۲۰۲۶: **Canada**)
+        """))
+
 elif page == _("شبیه‌ساز زنده مسابقات 🎮"):
     st.markdown(_('<div class="main-header">شبیه‌ساز زنده مسابقات جام جهانی</div>'), unsafe_allow_html=True)
     st.write(_("در این بخش می‌توانید در کلاس دو تیم را به صورت دلخواه انتخاب کنید تا مدل در لحظه نتیجه را پیش‌بینی کند!"))
