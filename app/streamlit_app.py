@@ -545,6 +545,14 @@ elif page == _("شبیه‌ساز زنده مسابقات 🎮"):
                         for col in demo_X.columns:
                             if 'team_b' in col and col in t2_stats.columns:
                                 demo_X[col] = t2_stats[col].values[0]
+                                
+                        # تنظیم ویژگی‌های مربوط به جام جهانی
+                        if 'tournament' in demo_X.columns:
+                            demo_X['tournament'] = 'FIFA World Cup'
+                        if 'country' in demo_X.columns:
+                            demo_X['country'] = 'United States'
+                        if 'neutral' in demo_X.columns:
+                            demo_X['neutral'] = False if team1 in ['USA', 'Canada', 'Mexico'] or team2 in ['USA', 'Canada', 'Mexico'] else True
                         
                         goals_a = max(0, int(np.round(model_goals_a.predict(demo_X)[0])))
                         goals_b = max(0, int(np.round(model_goals_b.predict(demo_X)[0])))
