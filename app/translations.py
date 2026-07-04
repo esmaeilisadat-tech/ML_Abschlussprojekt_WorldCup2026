@@ -586,3 +586,44 @@ TRANSLATIONS['FA'][r'این الگوریتم فاصله $x_i$ (پروفایل ت
 TRANSLATIONS['EN'][r'در این پروژه ۴۸ تیم جام جهانی به ۵ گروه تاکتیکی و قدرتی مختلف تقسیم شده‌اند تا بتوانیم تیم‌های هم‌سطح را شناسایی کنیم.'] = r'In this project, the 48 World Cup teams are divided into 5 tactical and strength groups so we can identify similarly leveled teams.'
 TRANSLATIONS['DE'][r'در این پروژه ۴۸ تیم جام جهانی به ۵ گروه تاکتیکی و قدرتی مختلف تقسیم شده‌اند تا بتوانیم تیم‌های هم‌سطح را شناسایی کنیم.'] = r'In diesem Projekt werden die 48 WM-Teams in 5 Taktik- und Stärkegruppen eingeteilt, damit wir Teams auf ähnlichem Niveau identifizieren können.'
 TRANSLATIONS['FA'][r'در این پروژه ۴۸ تیم جام جهانی به ۵ گروه تاکتیکی و قدرتی مختلف تقسیم شده‌اند تا بتوانیم تیم‌های هم‌سطح را شناسایی کنیم.'] = r'در این پروژه ۴۸ تیم جام جهانی به ۵ گروه تاکتیکی و قدرتی مختلف تقسیم شده‌اند تا بتوانیم تیم‌های هم‌سطح را شناسایی کنیم.'
+
+# --- LIVE KNOCKOUT TRANSLATIONS ---
+TRANSLATIONS["EN"][r'<div class="sub-header">پیش‌بینی آپدیت‌شده از یک‌هشتم تا فینال (بر اساس صعودکنندگان واقعی)</div>'] = r'<div class="sub-header">Updated Prediction from Round of 16 to Final (Based on Actual Qualifiers)</div>'
+TRANSLATIONS["DE"][r'<div class="sub-header">پیش‌بینی آپدیت‌شده از یک‌هشتم تا فینال (بر اساس صعودکنندگان واقعی)</div>'] = r'<div class="sub-header">Aktualisierte Vorhersage vom Achtelfinale bis zum Finale (Basierend auf den tatsächlichen Qualifikanten)</div>'
+TRANSLATIONS["FA"][r'<div class="sub-header">پیش‌بینی آپدیت‌شده از یک‌هشتم تا فینال (بر اساس صعودکنندگان واقعی)</div>'] = r'<div class="sub-header">پیش‌بینی آپدیت‌شده از یک‌هشتم تا فینال (بر اساس صعودکنندگان واقعی)</div>'
+
+TRANSLATIONS["EN"][r'مرحله یک‌هشتم نهایی (Round of 16):'] = r'Round of 16:'
+TRANSLATIONS["DE"][r'مرحله یک‌هشتم نهایی (Round of 16):'] = r'Achtelfinale (Round of 16):'
+TRANSLATIONS["FA"][r'مرحله یک‌هشتم نهایی (Round of 16):'] = r'مرحله یک‌هشتم نهایی (Round of 16):'
+
+TRANSLATIONS["EN"][r'برنده:'] = r'Winner:'
+TRANSLATIONS["DE"][r'برنده:'] = r'Gewinner:'
+TRANSLATIONS["FA"][r'برنده:'] = r'برنده:'
+
+TRANSLATIONS["EN"][r'مرحله یک‌چهارم نهایی (Quarter-finals):'] = r'Quarter-finals:'
+TRANSLATIONS["DE"][r'مرحله یک‌چهارم نهایی (Quarter-finals):'] = r'Viertelfinale (Quarter-finals):'
+TRANSLATIONS["FA"][r'مرحله یک‌چهارم نهایی (Quarter-finals):'] = r'مرحله یک‌چهارم نهایی (Quarter-finals):'
+
+TRANSLATIONS["EN"][r'مرحله نیمه‌نهایی (Semi-finals):'] = r'Semi-finals:'
+TRANSLATIONS["DE"][r'مرحله نیمه‌نهایی (Semi-finals):'] = r'Halbfinale (Semi-finals):'
+TRANSLATIONS["FA"][r'مرحله نیمه‌نهایی (Semi-finals):'] = r'مرحله نیمه‌نهایی (Semi-finals):'
+
+TRANSLATIONS["EN"][r'رده‌بندی (Third-place):'] = r'Third-place match:'
+TRANSLATIONS["DE"][r'رده‌بندی (Third-place):'] = r'Spiel um Platz 3 (Third-place):'
+TRANSLATIONS["FA"][r'رده‌بندی (Third-place):'] = r'رده‌بندی (Third-place):'
+
+TRANSLATIONS["EN"][r'مقام سوم:'] = r'Third place:'
+TRANSLATIONS["DE"][r'مقام سوم:'] = r'Dritter Platz:'
+TRANSLATIONS["FA"][r'مقام سوم:'] = r'مقام سوم:'
+
+TRANSLATIONS["EN"][r'فینال (Final):'] = r'Final:'
+TRANSLATIONS["DE"][r'فینال (Final):'] = r'Finale (Final):'
+TRANSLATIONS["FA"][r'فینال (Final):'] = r'فینال (Final):'
+
+TRANSLATIONS["EN"][r'قهرمان جام جهانی ۲۰۲۶:'] = r'World Cup 2026 Champion:'
+TRANSLATIONS["DE"][r'قهرمان جام جهانی ۲۰۲۶:'] = r'Weltmeister 2026:'
+TRANSLATIONS["FA"][r'قهرمان جام جهانی ۲۰۲۶:'] = r'قهرمان جام جهانی ۲۰۲۶:'
+
+TRANSLATIONS["EN"][r'آپدیت زنده (1/8 تا فینال)'] = r'Live Update (R16 to Final)'
+TRANSLATIONS["DE"][r'آپدیت زنده (1/8 تا فینال)'] = r'Live-Update (Achtelfinale bis Finale)'
+TRANSLATIONS["FA"][r'آپدیت زنده (1/8 تا فینال)'] = r'آپدیت زنده (1/8 تا فینال)'

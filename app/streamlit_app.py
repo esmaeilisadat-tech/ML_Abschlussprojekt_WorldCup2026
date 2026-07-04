@@ -484,33 +484,33 @@ elif page == _("پیش‌بینی کامل جام جهانی 2026"):
     with tab3:
         st.markdown(_('<div class="sub-header">پیش‌بینی آپدیت‌شده از یک‌هشتم تا فینال (بر اساس صعودکنندگان واقعی)</div>'), unsafe_allow_html=True)
         
-        st.write(_("""
-**مرحله یک‌هشتم نهایی (Round of 16):**
-* Canada **2 - 1** Morocco (برنده: **Canada**)
-* Paraguay **3 - 1** France (برنده: **Paraguay**)
-* Brazil **2 - 2** Norway (برنده: **Brazil**)
-* Mexico **2 - 0** England (برنده: **Mexico**)
-* Portugal **2 - 1** Spain (برنده: **Portugal**)
-* USA **1 - 2** Belgium (برنده: **Belgium**)
-* Argentina **2 - 0** Egypt (برنده: **Argentina**)
-* Switzerland **2 - 1** Colombia (برنده: **Switzerland**)
+        st.write(f"""
+**{_('مرحله یک‌هشتم نهایی (Round of 16):')}**
+* Canada **2 - 1** Morocco ({_('برنده:')} **Canada**)
+* Paraguay **3 - 1** France ({_('برنده:')} **Paraguay**)
+* Brazil **2 - 2** Norway ({_('برنده:')} **Brazil**)
+* Mexico **2 - 0** England ({_('برنده:')} **Mexico**)
+* Portugal **2 - 1** Spain ({_('برنده:')} **Portugal**)
+* USA **1 - 2** Belgium ({_('برنده:')} **Belgium**)
+* Argentina **2 - 0** Egypt ({_('برنده:')} **Argentina**)
+* Switzerland **2 - 1** Colombia ({_('برنده:')} **Switzerland**)
 
-**مرحله یک‌چهارم نهایی (Quarter-finals):**
-* Canada **2 - 1** Paraguay (برنده: **Canada**)
-* Brazil **2 - 1** Mexico (برنده: **Brazil**)
-* Portugal **3 - 1** Belgium (برنده: **Portugal**)
-* Argentina **2 - 0** Switzerland (برنده: **Argentina**)
+**{_('مرحله یک‌چهارم نهایی (Quarter-finals):')}**
+* Canada **2 - 1** Paraguay ({_('برنده:')} **Canada**)
+* Brazil **2 - 1** Mexico ({_('برنده:')} **Brazil**)
+* Portugal **3 - 1** Belgium ({_('برنده:')} **Portugal**)
+* Argentina **2 - 0** Switzerland ({_('برنده:')} **Argentina**)
 
-**مرحله نیمه‌نهایی (Semi-finals):**
-* Canada **2 - 1** Brazil (برنده: **Canada**)
-* Portugal **3 - 1** Argentina (برنده: **Portugal**)
+**{_('مرحله نیمه‌نهایی (Semi-finals):')}**
+* Canada **2 - 1** Brazil ({_('برنده:')} **Canada**)
+* Portugal **3 - 1** Argentina ({_('برنده:')} **Portugal**)
 
-**رده‌بندی (Third-place):**
-* Brazil **2 - 1** Argentina (مقام سوم: **Brazil**)
+**{_('رده‌بندی (Third-place):')}**
+* Brazil **2 - 1** Argentina ({_('مقام سوم:')} **Brazil**)
 
-**فینال (Final):**
-* Canada **2 - 1** Portugal (🏆 قهرمان جام جهانی ۲۰۲۶: **Canada**)
-        """))
+**{_('فینال (Final):')}**
+* Canada **2 - 1** Portugal (🏆 {_('قهرمان جام جهانی ۲۰۲۶:')} **Canada**)
+        """)
 
 elif page == _("شبیه‌ساز زنده مسابقات 🎮"):
     st.markdown(_('<div class="main-header">شبیه‌ساز زنده مسابقات جام جهانی</div>'), unsafe_allow_html=True)
