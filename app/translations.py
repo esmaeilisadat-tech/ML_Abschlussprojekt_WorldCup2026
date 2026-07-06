@@ -627,3 +627,7 @@ TRANSLATIONS["FA"][r'قهرمان جام جهانی ۲۰۲۶:'] = r'قهرمان
 TRANSLATIONS["EN"][r'آپدیت زنده (1/8 تا فینال)'] = r'Live Update (R16 to Final)'
 TRANSLATIONS["DE"][r'آپدیت زنده (1/8 تا فینال)'] = r'Live-Update (Achtelfinale bis Finale)'
 TRANSLATIONS["FA"][r'آپدیت زنده (1/8 تا فینال)'] = r'آپدیت زنده (1/8 تا فینال)'
+
+TRANSLATIONS["EN"][r'واقعی'] = r'Actual'
+TRANSLATIONS["DE"][r'واقعی'] = r'Tatsächlich'
+TRANSLATIONS["FA"][r'واقعی'] = r'واقعی'

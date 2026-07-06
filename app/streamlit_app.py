@@ -486,30 +486,30 @@ elif page == _("پیش‌بینی کامل جام جهانی 2026"):
         
         st.write(f"""
 **{_('مرحله یک‌هشتم نهایی (Round of 16):')}**
-* Canada **2 - 1** Morocco ({_('برنده:')} **Canada**)
-* Paraguay **3 - 1** France ({_('برنده:')} **Paraguay**)
-* Brazil **2 - 2** Norway ({_('برنده:')} **Brazil**)
-* Mexico **2 - 0** England ({_('برنده:')} **Mexico**)
+* Morocco **3 - 0** Canada ({_('برنده:')} **Morocco**) - {_('واقعی')}
+* France **1 - 0** Paraguay ({_('برنده:')} **France**) - {_('واقعی')}
+* Norway **2 - 1** Brazil ({_('برنده:')} **Norway**) - {_('واقعی')}
+* England **3 - 2** Mexico ({_('برنده:')} **England**) - {_('واقعی')}
 * Portugal **2 - 1** Spain ({_('برنده:')} **Portugal**)
-* USA **1 - 2** Belgium ({_('برنده:')} **Belgium**)
+* USA **2 - 1** Belgium ({_('برنده:')} **USA**)
 * Argentina **2 - 0** Egypt ({_('برنده:')} **Argentina**)
 * Switzerland **2 - 1** Colombia ({_('برنده:')} **Switzerland**)
 
 **{_('مرحله یک‌چهارم نهایی (Quarter-finals):')}**
-* Canada **2 - 1** Paraguay ({_('برنده:')} **Canada**)
-* Brazil **2 - 1** Mexico ({_('برنده:')} **Brazil**)
-* Portugal **3 - 1** Belgium ({_('برنده:')} **Portugal**)
+* Morocco **1 - 2** France ({_('برنده:')} **France**)
+* Norway **2 - 1** England ({_('برنده:')} **Norway**)
+* Portugal **2 - 1** USA ({_('برنده:')} **Portugal**)
 * Argentina **2 - 0** Switzerland ({_('برنده:')} **Argentina**)
 
 **{_('مرحله نیمه‌نهایی (Semi-finals):')}**
-* Canada **2 - 1** Brazil ({_('برنده:')} **Canada**)
-* Portugal **3 - 1** Argentina ({_('برنده:')} **Portugal**)
+* France **2 - 1** Norway ({_('برنده:')} **France**)
+* Portugal **2 - 1** Argentina ({_('برنده:')} **Portugal**)
 
 **{_('رده‌بندی (Third-place):')}**
-* Brazil **2 - 1** Argentina ({_('مقام سوم:')} **Brazil**)
+* Norway **2 - 0** Argentina ({_('مقام سوم:')} **Norway**)
 
 **{_('فینال (Final):')}**
-* Canada **2 - 1** Portugal (🏆 {_('قهرمان جام جهانی ۲۰۲۶:')} **Canada**)
+* France **3 - 1** Portugal (🏆 {_('قهرمان جام جهانی ۲۰۲۶:')} **France**)
         """)
 
 elif page == _("شبیه‌ساز زنده مسابقات 🎮"):
