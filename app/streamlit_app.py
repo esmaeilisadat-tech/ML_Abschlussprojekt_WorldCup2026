@@ -490,26 +490,26 @@ elif page == _("پیش‌بینی کامل جام جهانی 2026"):
 * France **1 - 0** Paraguay ({_('برنده:')} **France**) - {_('واقعی')}
 * Norway **2 - 1** Brazil ({_('برنده:')} **Norway**) - {_('واقعی')}
 * England **3 - 2** Mexico ({_('برنده:')} **England**) - {_('واقعی')}
-* Portugal **2 - 1** Spain ({_('برنده:')} **Portugal**)
-* USA **2 - 1** Belgium ({_('برنده:')} **USA**)
-* Argentina **2 - 0** Egypt ({_('برنده:')} **Argentina**)
-* Switzerland **2 - 1** Colombia ({_('برنده:')} **Switzerland**)
+* Spain **2 - 1** Portugal ({_('برنده:')} **Spain**) - {_('واقعی')}
+* Belgium **2 - 0** USA ({_('برنده:')} **Belgium**) - {_('واقعی')}
+* Argentina **3 - 2** Egypt ({_('برنده:')} **Argentina**) - {_('واقعی')}
+* Switzerland **0 - 0** Colombia ({_('برنده:')} **Switzerland**) - {_('واقعی')}
 
 **{_('مرحله یک‌چهارم نهایی (Quarter-finals):')}**
-* Morocco **1 - 2** France ({_('برنده:')} **France**)
-* Norway **2 - 1** England ({_('برنده:')} **Norway**)
-* Portugal **2 - 1** USA ({_('برنده:')} **Portugal**)
-* Argentina **2 - 0** Switzerland ({_('برنده:')} **Argentina**)
+* France **2 - 0** Morocco ({_('برنده:')} **France**) - {_('واقعی')}
+* Spain **2 - 1** Belgium ({_('برنده:')} **Spain**) - {_('واقعی')}
+* England **2 - 1** Norway ({_('برنده:')} **England**) - {_('واقعی')}
+* Argentina **3 - 1** Switzerland ({_('برنده:')} **Argentina**) - {_('واقعی')}
 
 **{_('مرحله نیمه‌نهایی (Semi-finals):')}**
-* France **2 - 1** Norway ({_('برنده:')} **France**)
-* Portugal **2 - 1** Argentina ({_('برنده:')} **Portugal**)
+* Spain **2 - 0** France ({_('برنده:')} **Spain**) - {_('واقعی')}
+* Argentina **2 - 1** England ({_('برنده:')} **Argentina**) - {_('واقعی')}
 
 **{_('رده‌بندی (Third-place):')}**
-* Norway **2 - 0** Argentina ({_('مقام سوم:')} **Norway**)
+* France **2 - 1** England ({_('مقام سوم:')} **France**)
 
 **{_('فینال (Final):')}**
-* France **3 - 1** Portugal (🏆 {_('قهرمان جام جهانی ۲۰۲۶:')} **France**)
+* Spain **2 - 0** Argentina (🏆 {_('قهرمان جام جهانی ۲۰۲۶:')} **Spain**)
         """)
 
 elif page == _("شبیه‌ساز زنده مسابقات 🎮"):
